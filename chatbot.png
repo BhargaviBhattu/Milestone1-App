@@ -1,0 +1,2855 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+            <title>Recruitment Chatbot: A How-to Guide for Recruiters</title>
+    <meta name="description" content="Do you want to know what a Recruitment Chatbot is? Read this article to learn about the definition, features and fruitful benefits of a Hiring bot.">
+    <meta name="keywords" content="Recruitment chatbot, recruitment chatbot examples, recruitment chatbot questions, recruitment bot, chatbot recruitment process, benefits of recruitment chatbot, companies using chatbots in recruitment, Chatbot, companies using recruitment chatbot, virtual recruiting, recruitment chatbot examples, chatbot recruitment process, hr chatbot, Chatbot for human resources, chatbots in recruitment, hiring chatbot, virtual assistant, personal assistant, recruitment chatbot market, ai chatbot for recruitment, benefits of chatbots in recruitment, Career page integration bot, virtual recruiting chatbot, application via chatbot, AI and automation, AI technology, technology, interview chatbot, ai recruiting chatbot, hiring chatbot, talent acquisition chatbot, hiring bots">
+    <meta http-equiv="Content-Type" content="text/html; charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="public">
+    <meta http-equiv="Expires" content="Sat, 01 Dec 2019 00:00:00 GMT">
+    <meta property="og:title" content="Recruitment Chatbot: A How-to Guide for Recruiters"/>
+    <meta property="og:description" content="Do you want to know what a Recruitment Chatbot is? Read this article to learn about the definition, features and fruitful benefits of a Hiring bot."/>
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.ismartrecruit.com/blog-recruitment-chatbot-overview">
+    <meta property="og:site_name" content="iSmartRecruit" />
+    <meta property="article:publisher" content="https://www.linkedin.com/company/ismartrecruit" />
+    <meta property="article:published_time" content="2022-10-03T00:00:00+05:30" />
+    <meta property="article:modified_time" content="2024-12-09T03:43:41+05:30" />
+    <meta itemprop="datePublished" content="2022-10-03T00:00:00+05:30" />
+	<meta itemprop="dateModified" content="2024-12-09T03:43:41+05:30" />
+    <meta property="og:image" content= "https://www.ismartrecruit.com/upload/blog/main_image/recruitment_chatbot_definition_features_and_benefits.webp">
+    <meta property="og:image:width" content="830" />
+    <meta property="og:image:height" content="400" />
+    <meta property="og:image:type" content="image/webp" />
+    <meta name="author" content="Amit Ghodasara" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@iSmartRecruit">
+    <meta name="twitter:creator" content="@iSmartRecruit">
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Amit Ghodasara" />
+    <meta name="twitter:label2" content="Est. reading time" />
+    <meta name="twitter:data2" content="PT7M" />
+    <link rel="canonical" href="https://www.ismartrecruit.com/blog-recruitment-chatbot-overview" />
+    <link rel="shortcut icon" href="https://www.ismartrecruit.com/assets/frontend/images/favicon.ico">
+    <link rel="preload stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css" as="style" type="text/css" crossorigin="anonymous">
+    <link rel="preload stylesheet" href="https://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" as="style" type="text/css" crossorigin="anonymous">
+    <link rel="preload stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css"  as="style" type="text/css">
+	<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8580465767e0f380642c0dee-|49"></script><link rel="preload stylesheet"  onload="this.media="all"" href="https://www.ismartrecruit.com/assets/frontend/css/bootstrap.min.css "as="style" type="text/css" crossorigin="anonymous"  />
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8580465767e0f380642c0dee-|49"></script><link rel="preload stylesheet"  onload="this.media="all"" href="https://www.ismartrecruit.com/assets/frontend/css/tobii.min.css "as="style" type="text/css" crossorigin="anonymous"  />
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8580465767e0f380642c0dee-|49"></script><link rel="preload stylesheet"  onload="this.media="all"" href="https://www.ismartrecruit.com/assets/frontend/css/tiny-slider.css "as="style" type="text/css" crossorigin="anonymous"  />
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8580465767e0f380642c0dee-|49"></script><link rel="preload stylesheet"  onload="this.media="all"" href="https://www.ismartrecruit.com/assets/frontend/css/datepicker.min.css "as="style" type="text/css" crossorigin="anonymous"  />
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8580465767e0f380642c0dee-|49"></script><link rel="preload stylesheet"  onload="this.media="all"" href="https://www.ismartrecruit.com/assets/frontend/css/style.css?v=1411145 "as="style" type="text/css" crossorigin="anonymous"  />
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8580465767e0f380642c0dee-|49"></script><link rel="preload stylesheet"  onload="this.media="all"" href="https://www.ismartrecruit.com/assets/frontend/css/colors/default.css "as="style" type="text/css" crossorigin="anonymous"  />
+    <!-- Google Tag Manager -->
+    <script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" defer="defer" async="async">
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PQFBGB8');</script>
+    <!-- End Google Tag Manager -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9KRDM75R76" type="8580465767e0f380642c0dee-text/javascript"></script>
+    <script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" defer="defer" async="async">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-9KRDM75R76');
+    </script>
+</head>
+
+
+ <body class="" itemtype="https://schema.org/Blog" itemscope>
+
+<!--  <div id='snow'></div>-->
+
+<!-- clarity script similer for hotjar app -->
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" defer="defer" async="async">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "lr76cx0f2q");
+</script>
+<!-- END clarity script -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebSite",
+            "@id": "https://www.ismartrecruit.com/#website",
+            "url": "https://www.ismartrecruit.com/",
+            "name": "iSmartRecruit",
+            "description": "Recruitment Chatbot: A How-to Guide for Recruiters",
+            "publisher": {
+                "@type": "Organization",
+                "name": "iSmartRecruit",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.ismartrecruit.com/assets/frontend/images/LOGO/iSmartRecruit-logo.webp"
+                }
+            }
+        },
+        {
+         "@type": "WebPage",
+         "@id": "https://www.ismartrecruit.com/blog-recruitment-chatbot-overview#webpage",
+         "url": "https://www.ismartrecruit.com/blog-recruitment-chatbot-overview",
+         "name": "Recruitment Chatbot: A How-to Guide for Recruiters",
+         "isPartOf": {
+             "@id": "https://www.ismartrecruit.com/#website"
+          },
+          "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://www.ismartrecruit.com/upload/blog/main_image/recruitment_chatbot_definition_features_and_benefits.webp"
+          },
+          "datePublished": "2022-10-03T00:00:00+05:30",
+          "dateModified": "2024-12-09T03:43:41+05:30",
+          "description": "Do you want to know what a Recruitment Chatbot is? Read this article to learn about the definition, features and fruitful benefits of a Hiring bot.",
+          "inLanguage": "en-US"
+        },
+        {
+         "@type": "BlogPosting",
+         "@id": "https://www.ismartrecruit.com/blog-recruitment-chatbot-overview#blogpost",
+         "url": "https://www.ismartrecruit.com/blog-recruitment-chatbot-overview",
+         "name": "Recruitment Chatbot: A How-to Guide for Recruiters",
+         "headline": "Recruitment Chatbot: A How-to Guide for Recruiters",
+         "datePublished": "2022-10-03T00:00:00+05:30",
+         "dateModified": "2024-12-09T03:43:41+05:30",
+         "description": "Do you want to know what a Recruitment Chatbot is? Read this article to learn about the definition, features and fruitful benefits of a Hiring bot.",
+         "author": {
+           "@type": "Person",
+           "name": "Amit Ghodasara"
+         },
+         "publisher": {
+            "@type": "Organization",
+            "name": "iSmartRecruit",
+               "logo": {
+               "@type": "ImageObject",
+               "url": "https://www.ismartrecruit.com/assets/frontend/images/LOGO/iSmartRecruit-logo.webp"
+               }
+          }
+        }
+    ]
+}
+</script>
+
+
+<form action="https://www.ismartrecruit.com/es" class="form-horizontal frmselectESLanguage" id="frmselectESLanguage" method="post" accept-charset="utf-8">
+<input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />                                                                                                          
+</form><form action="https://www.ismartrecruit.com/" class="form-horizontal frmselectENLanguage" id="frmselectENLanguage" method="post" accept-charset="utf-8">
+<input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />               
+</form><form action="https://www.ismartrecruit.com/Home/blogs" class="form-horizontal frmsearchblogs" id="frmsearchblogs" method="get" accept-charset="utf-8">
+</form><form action="https://www.ismartrecruit.com/" class="form-horizontal frmsSuccess" id="frmsSuccess" method="get" accept-charset="utf-8">
+</form><form action="https://www.ismartrecruit.com/Home/pricing_model" class="form-horizontal frmsPricingPages" id="frmsPricingPages" method="get" accept-charset="utf-8">
+</form><form action="https://www.ismartrecruit.com/Home/pricing_pages_mail" class="form-horizontal frmsPricing" id="frmsPricing" method="get" accept-charset="utf-8">
+</form><form action="https://www.ismartrecruit.com/Home/home_eBook_download_modal" class="form-horizontal frmsHomeeBookDownloadModal" id="frmsHomeeBookDownloadModal" method="post" accept-charset="utf-8">
+<input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />                                                                                  
+</form> 
+<form action="https://www.ismartrecruit.com/Home/close_ebook_section" class="form-horizontal frmsEBookModal" id="frmsEBookModal" method="post" accept-charset="utf-8">
+                                <input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />
+</form><form action="https://www.ismartrecruit.com/Home/close_emailSubScribe_section" class="form-horizontal frmsEmailSubscibrModal" id="frmsEmailSubscibrModal" method="post" accept-charset="utf-8">
+                <input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />
+</form><form action="https://www.ismartrecruit.com/competitor-success" class="form-horizontal frmsCompetitorSuccess" id="frmsCompetitorSuccess" method="post" accept-charset="utf-8">
+<input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />                                                    
+</form><form action="https://www.ismartrecruit.com/Home/cookies_close" class="form-horizontal frmsCookiesClose" id="frmsCookiesClose" method="post" accept-charset="utf-8">
+<input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />                                
+</form><form action="https://www.ismartrecruit.com/Home/close_hire_faster_popup" class="form-horizontal frmsHireClose" id="frmsHireClose" method="post" accept-charset="utf-8">
+<input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />                                                                                                                            
+</form>
+<form action="https://www.ismartrecruit.com/Home/close_req_demo_popup_section" class="form-horizontal frmsBlogClose" id="frmsBlogClose" method="post" accept-charset="utf-8">
+<input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />                                          
+<input type='hidden' name='page_source' id='page_source' value='blog-details'>
+<input type='hidden' name='get_blog_url' id='blog_url_get' value=''>
+</form>
+<form action="https://www.ismartrecruit.com/Home/close_get_now_offer_section" class="form-horizontal frmsGetofferClose" id="frmsGetofferClose" method="post" accept-charset="utf-8">
+<input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />                                                     
+</form><form action="https://www.ismartrecruit.com/ES/es_princing_model" class="form-horizontal frmEsPrincingModel" id="frmEsPrincingModel" method="post" accept-charset="utf-8">
+                                                                                  <input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />
+</form><form action="https://www.ismartrecruit.com/es/competitor-success" class="form-horizontal frmsESCompetitorSuccess" id="frmsESCompetitorSuccess" method="post" accept-charset="utf-8">
+             <input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />
+</form>
+
+<form action="https://www.ismartrecruit.com/Home/promotionalVideoPopup" class="form-horizontal searchVideoPopup" id="searchVideoPopup" method="post" accept-charset="utf-8">
+<input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />            
+</form>
+<form action="https://www.ismartrecruit.com/Home/headerPromotionalVideoPopup" class="form-horizontal searchVideoPopup1" id="searchVideoPopup1" method="post" accept-charset="utf-8">
+                                                                                                                 <input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />
+</form>
+
+
+	<input type='hidden' name='baseUrl' id='baseUrl' value='https://www.ismartrecruit.com/'>
+  <!-- Page Wrapper -->
+  	<div id="wrapper">
+        <!-- Content Wrapper -->
+        	<div id="content-wrapper" class="d-flex flex-column">
+         		 <!-- Main Content -->
+         			 <div id="content">
+          			     <!-- Topbar -->
+           				    <!-- temp css -->
+<style>
+
+body::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #fff;
+}
+
+body::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #fff;
+}
+
+body::-webkit-scrollbar-thumb
+{
+	background-color: #d1d1d1;
+	border: 1px solid transparent;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+.popup {
+  margin: 70px auto;
+  background: #fff;
+  border-radius: 5px;
+  width: 60%;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+.popup .close_btn{
+   z-index: 99991;
+    position: absolute;
+    right: -15px;
+    top: -15px;
+    color: #000;
+    background: #fff;
+    border-radius: 50%;
+    /* padding: 5px 13px; */
+    width: 22px;
+    height: 22px;
+    text-align: center;
+    font-size: 19px;
+    line-height: 24px;
+}
+.headervideo_tag{
+   position: absolute;
+    bottom: 20px;
+    left: 40px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+}
+.FeaturesMenuPadding{
+    padding:20px;
+}
+.headerVidPopUp_md{
+  display:none;
+ }
+.play-icon .tobii-zoom{
+  display: inline-block;
+}
+    
+#topnav .has-submenu.active a{
+    color: #000!important;
+}
+
+#topnav .header-top{
+    display: block;
+}
+#topnav{
+   padding-top: 0px;
+   height: 67px;
+}
+#topnav.nav-sticky{
+   height: 67px;
+}
+
+#topnav .navigation-menu > li .submenu.megamenu {
+    top: 62px!important;
+}
+#topnav.nav-sticky .navigation-menu > li .submenu.megamenu {
+    top: 62px!important;
+}
+.headervideo_tag .play_img img{
+    width:30px!important;
+    margin-right:10px;
+    display: inline-block;
+}
+.all_featuresCTA{
+  display: flex;
+  justify-content: end;
+  position: relative;
+  top: 15px;
+  right: 15px;
+}
+.all_featuresCTA a{
+    font-weight: 600;
+}
+
+@media screen and (max-width: 992px){
+    .Features-submenu{
+        padding-left: 20px;
+    }
+     .headervideo_tag{
+        position: absolute;
+        bottom: 10px;
+        left: 40px;
+        color: #fff;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .FeaturesMenuPadding{
+        padding:0px;
+    }
+    .headerVidPopUp_lg{
+        display:none;
+    }
+    .headerVidPopUp_md{
+        display:block;
+    }
+    #topnav .has-submenu.active a{
+        color: #fff!important;
+    }
+}
+@media screen and (max-width: 768px){
+ .popup_SM_width{
+    width: 90%!important;
+  }  
+}
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+  .popup_SM_width{
+    width: 90%!important;
+  }
+  .headervideo_tag{
+    position: absolute;
+    bottom: 10px;
+    left: 40px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+  }
+}
+@media screen and (max-width: 599px){
+    #topnav{
+       height: 67px;
+    }
+    #topnav.nav-sticky{
+        height: 67px;
+    }
+}
+@media screen and (max-width: 460px){
+   .header-top {
+    height: 23px;
+   }
+  .headervideo_tag{
+    position: absolute;
+    bottom: 10px;
+    left: 40px;
+    color: #fff;
+    font-size: 9px;
+    font-weight: 600;
+    }
+}
+
+@media screen and (max-width: 440px){
+    #topnav .container {
+        width: 100%!important;
+        max-width: 97%!important;
+        margin-left: 0px!important;
+    }
+    .overflow_md{
+        overflow: hidden;
+        height: 20px;
+    }
+}
+
+</style>
+  		<header id="topnav" class="defaultscroll bg-white">
+  		
+<!--     	<div class="header-top" style="background:#132e39;display:none!important;">
+              <div class="container">
+                <div class="header-top-wrapper d-flex justify-content-center" style="margin-left:25px;">
+                     <div class="mic-icon-img" style="position: relative;">
+                     	<img alt="rocket-icon" src="" />
+                     </div>
+                        <div class="d-flex overflow_md">
+                        	<div class="text text-desktop">
+                              <p class="text-center">Exclusive Christmas Offer to Level Up Your Recruitment in 2024.</p>
+                           </div>
+                            <div class="text-mobile">
+                              <p class="text-center">Steal the Best Christmas Deal</p>
+                            </div> 
+                        <div class="topHeaderVid" style="margin-left:0px;">
+           					<a href="">           
+                                  <div class="top_header_playIcon">  
+                            			<div class="vidIcon"></div> 
+                             		<div><span style="font-size: 16px;color:#F9A84C!important;text-decoration: underline;" class="headerTag">Save Now!</span></div>
+                              	</div>  
+                          	 </a> 
+                          </div>  
+                       </div> 
+                   </div>  
+              	</div>  
+            </div>  
+ -->
+
+  
+          <div class="container" >
+                <a class="logo homepage-logo" href="https://www.ismartrecruit.com/">
+                    <img alt="iSmartRecruit" src="https://www.ismartrecruit.com/assets/frontend/images/LOGO/iSmartRecruit-logo.webp">                   
+                </a>
+                <div class="buy-button">
+                    <a style="margin-right:15px;" class="login" title="login - iSmartRecruit" href="https://app.ismartrecruit.com" class="login-link">Login</a>
+                     <a href="https://www.ismartrecruit.com/request-demo"  class="header_trial_btn">Get a Demo</a>
+                </div><!--end login button-->
+                <div class="menu-extras">
+                    <div class="menu-item">
+                        <!-- Mobile menu toggle-->
+                        <a class="navbar-toggle" id="isToggle" onclick="if (!window.__cfRLUnblockHandlers) return false; toggleMenu()" data-cf-modified-8580465767e0f380642c0dee-="">
+                            <div class="lines">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </a>
+                        <!-- End mobile menu toggle-->
+                    </div>
+                </div>
+              
+                <div id="navigation">
+                    <!-- Navigation Menu-->   
+                    <ul class="navigation-menu">
+                    	<li class="has-submenu parent-parent-menu-item">
+                            <a href="javascript:void(0)">Solutions</a><span class="menu-arrow"> <i style="font-size: 21px;position: relative;top:-11px;left:15px;" class="new_menu-arrow uil uil-angle-down"></i></span>
+                            <ul class="solution_submenu submenu megamenu submenu-megamenu " style="padding:0;width:auto!important;background: none;box-shadow:none;">
+                                <div class="Features-submenu solution_menu">
+                                    <div class="container FeaturesMenuContainer_wd Features-submenu_md">
+                                        <div class="row FeaturesMenuPadding solution_menu_items">
+                                            <div class="col-lg-6 p-0">
+                                            	<div class="submenu-icon mt-0">
+                                                    <div class="menu-icon">
+                                                   		 <i class="uil-search-alt"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                        <a href="https://www.ismartrecruit.com/executive-search-software"  class="sub-menu-item">Executive Search Firms <div class="sub_decs">Retained Search, Executive Search, <br>in-house Executive Search</div> </a>
+                                                    </div>
+                                                </div>
+                                                <div class="submenu-icon">
+                                                    <div class="menu-icon">
+                                                    	<i class="uil-bag"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                        <a href="https://www.ismartrecruit.com/recruitment-agency-software"  class="sub-menu-item"><div class="sub_menu_lk">Professional Recruitment</div> <div class="sub_decs">Direct hire, permanent and <br>contingent recruitment agencies</div> </a>
+                                                    </div>
+                                                </div>
+                                                <div class="submenu-icon">
+                                                    <div class="menu-icon">
+                                                    	<i class="uil-users-alt"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                        <a href="https://www.ismartrecruit.com/staffing-agency-software"  class="sub-menu-item">Staffing Agencies <div class="sub_decs">Agenices specialised in Temporary and Contract staffing positions</div> </a>
+                                                    </div>
+                                                </div>
+                                                <div class="submenu-icon">
+                                                     <div class="menu-icon">
+                                                     	<i class=" uil-file-search-alt"></i>
+                                                     </div>
+                                                     <div class="menu-link">
+                                                       <a href="https://www.ismartrecruit.com/rpo-software"  class="sub-menu-item">RPO Companies <div class="sub_decs">Recruitment on behalf of other <br>organisations</div> </a>
+                                                     </div>
+                                                 </div>
+                                            </div>
+                                            <div class="col-lg-6 p-0">
+                                            	<div class="submenu-icon mt-0">
+                                                    <div class="menu-icon">
+                                                    	<i class=" uil-building"></i>
+                                                    </div> 
+                                                     <div class="menu-link"> 
+                                                        <a href="https://www.ismartrecruit.com/applicant-tracking-system" class="sub-menu-item">In-House <div class="sub_decs">Corporate and internal <br>talent acquisition</div> </a>
+                                                     </div> 
+                                                 </div> 
+                                            
+                                            	<div class="submenu-icon">
+                                                    <div class="menu-icon">
+                                                    	<i class="uil-user"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                        <a href="https://www.ismartrecruit.com/best-recruiting-software-small-business-startup"  class="sub-menu-item"><div class="sub_menu_lk">Startup</div><div class="sub_decs">Startup agencies or corporate <br>willing to hire people</div> </a>
+                                                    </div>
+                                                </div>
+                                                
+                                                  <div class="submenu-icon">
+                                                     <div class="menu-icon">
+                                                         <i class="uil-desktop-alt"></i>
+                                                     </div>
+                                                     <div class="menu-link">
+                                                         <a href="https://www.ismartrecruit.com/high-volume-recruiting-software"  class="sub-menu-item">High Volume Recruiting<div class="sub_decs">Hire more people in less time</div></a>
+                                                     </div>
+                                                 </div>  
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </ul>
+                        </li>  
+                        <li class="has-submenu parent-parent-menu-item">
+                            <a href="javascript:void(0)">Features</a><span class="menu-arrow"> <i style="font-size: 21px;position: relative;top:-11px;left:15px;" class="new_menu-arrow uil uil-angle-down"></i></span>
+                            <ul class="submenu megamenu submenu-megamenu " style="padding:0;width:auto!important;">
+                                <div class="Features-submenu">
+                                    <div class="container FeaturesMenuContainer_wd Features-submenu_md">
+                                        <div class="row FeaturesMenuPadding">
+                                            <div class="col-lg-6 p-0">
+                                            	<div class="submenu-icon">
+                                                    <div class="menu-icon">
+                                                        <i class="uil uil-process"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                        <a href="https://www.ismartrecruit.com/applicant-tracking"  class="sub-menu-item">Applicant Tracking<br> <span>End to end applicant tracking.</span> </a>
+                                                    </div>
+                                                </div>
+                                                <div class="submenu-icon">
+                                                    <div class="menu-icon">
+                                                        <i class="uil uil-thumbs-up"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                        <a href="https://www.ismartrecruit.com/recruiting-crm"  class="sub-menu-item">Recruiting CRM<br> <span>Boost relationship across all the stack holders.</span> </a>
+                                                    </div>
+                                                </div> 
+                                                <div class="header_dots_-img">
+                                                    <div>
+                                                       	<img style="z-index: -1;" class="dots_img" src="https://www.ismartrecruit.com/assets/frontend/images/isr-other_img/dots-linear.svg" alt="dots">	
+                                                   </div>
+                                                 </div>
+                                                <div class="col-10 headerVidPopUp_lg" style="padding: 10px 20px 0px 20px;">
+                                                  	<div id="popover_preview_embed" class="headerVidpopupHeader" >
+                                                    <a class="popup_btn title_text pro_vid_link" id="videoPopup"  href="#">
+                                                      <img width="100%" style="border-radius: 15px;" alt="iSmartRecruit" src="https://www.ismartrecruit.com/assets/frontend/images/video-popup-img.webp">
+                                                      <div class="headervideo_tag">
+                                                        <span class="play_img"><img alt="play" src="https://www.ismartrecruit.com/assets/frontend/images/isr-other_img/videoplayWhite-icon.svg"></span>
+                                                        See iSmartRecruit in action
+                                                     </div>
+                                                   </a>
+                                               </div>
+                                           </div>
+                                            </div>
+                                            <div class="col-lg-6 p-0">
+                                                <div class="submenu-icon">
+                                                    <div class="menu-icon">
+                                                        <i class="uil uil-setting"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                        <a href="https://www.ismartrecruit.com/recruitment-automation-ai"  class="sub-menu-item">AI & Automation<br> <span>In depth analysis and profile matching using AI.</span> </a>
+                                                    </div>
+                                                </div>
+                                                <div class="submenu-icon">
+                                                    <div class="menu-icon">
+                                                        <i class="uil uil-megaphone"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                        <a href="https://www.ismartrecruit.com/recruitment-marketing"  class="sub-menu-item">Recruitment Marketing<br> <span>Recruit like a marketer.</span> </a>
+                                                    </div>
+                                                </div>
+												<div class="submenu-icon">
+                                                    <div class="menu-icon">
+                                                        <i class="uil uil-chart-pie-alt"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                        <a href="https://www.ismartrecruit.com/reporting-and-compliance"  class="sub-menu-item">Reporting & Compliance<br> <span>End to end tracking of processes and work.</span> </a>
+                                                    </div>
+                                                </div>
+                                            	
+                                            	<div class="submenu-icon">
+                                                    <div class="menu-icon">
+                                                        <i class="uil uil-user-arrows"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                        <a href="https://www.ismartrecruit.com/team-collaboration"  class="sub-menu-item">Team Collaboration<br> <span>Work collaboratively, work efficiently.</span> </a>
+                                                    </div>
+                                                </div>
+                                                
+                                                <div class="submenu-icon all_featuresCTA" style="height:auto;">
+                                                	<div><a href="https://www.ismartrecruit.com/ats-features-list">See all features<span><i class="uil uil-arrow-right"></i></span></a></div>
+                                                </div>
+                                                
+                                                        
+<!--                                              <div class="submenu-icon d-flex justify-content-center" > -->
+<!--                                                     <div class="menu-link pt-4"> -->
+<!--                                                         <a  class="sub-menu-item" ><b>View all features</b></a> -->
+<!--                                                     </div> -->
+<!--                                                     <div class="pt-3" > -->
+                                                  <!-- <i style="font-size: 30px;" class="uil uil-arrow-right"></i>
+<!--                                                     </div> -->
+<!--                                                 </div> -->
+                                            </div>
+                                        </div>
+                                        <div class="row headerVidPopUp_md">
+                                        	<div class="col-10" style="padding: 10px 20px 0px 20px;">
+                                               <div id="popover_preview_embed" class="headerVidpopupHeader" >
+                                                    <a class="popup_btn title_text pro_vid_link"  >
+                                                      <img width="100%" style="max-width:300px;border-radius: 15px;" alt="iSmartRecruit" src="https://www.ismartrecruit.com/assets/frontend/images/video-popup-img.webp">
+                                                      <div class="headervideo_tag">
+                                                        <span class="play_img"><img alt="play" src="https://www.ismartrecruit.com/assets/frontend/images/isr-other_img/videoplayWhite-icon.svg"></span>
+                                                        See iSmartRecruit in action
+                                                     </div>
+                                                   </a>
+                                               </div>
+                                            </div>
+                                        </div>
+							
+										<div class="row">
+                                        	<div class="features_submenuBar" style="margin-top:15px;">
+                                        		<div class="features_submenuBar_items">
+                                                    <div><li class="submenuBar_link"><a href="https://www.ismartrecruit.com/integration">Browse integrations<span><i class="uil uil-arrow-right"></i></span></a></li></div>	
+                                                	<div><li class="submenuBar_link"><a href="https://www.ismartrecruit.com/data-migration">How data migration works<span><i class="uil uil-arrow-right"></i></span></a></li></div>
+                                                	<div><li class="submenuBar_link"><a href="https://www.ismartrecruit.com/best-on-premise-ats-crm-software">On-Premise option<span><i class="uil uil-arrow-right"></i></span></a></li></div>	
+                                                </div>
+                                        	</div>
+                                        </div>	
+                                    </div>
+                                </div>
+                            </ul>
+                        </li>       
+                        <li class="has-submenu parent-parent-menu-item">
+                            <a href="https://www.ismartrecruit.com/best-talent-acquisition-software-pricing">Pricing</a>
+                        </li>
+                        <li style="display: none;" class="has-submenu parent-menu-item">
+                            <a href="https://www.ismartrecruit.com/blogs">Blog</a>
+                        </li>
+                        <li class="has-submenu parent-parent-menu-item">
+                            <a href="javascript:void(0)">Resources </a><span class="menu-arrow"> <i style="font-size: 21px;position: relative;top:-11px;left:15px;" class="new_menu-arrow uil uil-angle-down"></i></span>
+                            <ul class="submenu megamenu submenu-megamenu new_submenu-megamenu" style="left: 62% !important;width: 170px!important;">
+                                <div class="Features-submenu" style="padding-left:0px;">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <div class="submenu-icon" style="width: 150px!important;height: 45px;">
+                                                    <div class="menu-icon">
+                                                       <i class="uil uil-document-layout-center" style="font-size: 24px;position: relative;top: -7px;"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                         <a href="https://www.ismartrecruit.com/blogs" class="sub-menu-item">Blogs</span></a>
+                                                    </div>
+                                                </div>
+                                                <div class="submenu-icon" style="width: 150px!important;height: 45px;">
+                                                    <div class="menu-icon">
+                                                    	<i class="uil uil-book-open" style="font-size: 24px;position: relative;top: -7px;"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                    	<a href="https://www.ismartrecruit.com/resource-ebook"  class="sub-menu-item">E-Books </a>
+                                                    </div>
+                                                </div>
+                                                <div class="submenu-icon" style="width: 150px!important;height: 45px;">
+                                                    <div class="menu-icon">
+                                                    	<i class="uil uil-clipboard-alt" style="font-size: 24px;position: relative;top: -7px;"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                       <a href="https://www.ismartrecruit.com/case-studies"  class="sub-menu-item">Case Studies</a>
+                                                    </div>
+                                                </div>  
+                                                <div class="submenu-icon" style="width: 150px!important;height: 45px;">
+                                                    <div class="menu-icon">
+                                                    	<i class="uil uil-video" style="font-size: 24px;position: relative;top: -7px;"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                       <a href="https://www.ismartrecruit.com/webinars"  class="sub-menu-item">Webinars</a>
+                                                    </div>
+                                                </div>  
+                                                <div class="submenu-icon" style="width: 150px!important;height: 45px;">
+                                                    <div class="menu-icon">
+                                                    	<i class="uil uil-book-alt" style="font-size: 24px;position: relative;top: -7px;"></i></div>
+                                                    <div class="menu-link">
+                                                       <a href="https://www.ismartrecruit.com/recruitment-glossary"  class="sub-menu-item">Glossary</a>
+                                                    </div>
+                                                </div> 
+                                                <div class="submenu-icon" style="width: 150px!important;height: 35px;">
+                                                    <div class="menu-icon">
+                                                    	<i class="uil uil-question-circle" style="font-size: 24px;position: relative;top: -7px;"></i>
+                                                    </div>
+                                                    <div class="menu-link">
+                                                       <a href="https://www.ismartrecruit.com/frequently-asked-questions"  class="sub-menu-item">FAQs</a>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </ul>
+                        </li>        
+<!--                         <li class="has-submenu parent-menu-item"> -->
+  <!--                           <a href="">Startup</a>
+<!--                         </li> -->
+                       <li class="lang_changed_tag" style="margin-top: 20px!important;">
+                        	<div>
+                               <div>
+                                	<ul class="lang-switch">
+                                        <li>
+                                            <div class="lang-select">
+                                                <select name="selectLanguage" id="selectLanguage">
+                                                    <option value="1">EN</option>
+                                                    <option value="2">ES</option>
+                                                </select>
+                                            </div>
+                                        </li>
+                                        <!-- <li><a class="active" title="English" href="https://www.ismartrecruit.com/">EN</a></li> /
+                                        <li><a title="Spanish" href="https://www.ismartrecruit.com/es">ES</a></li>  -->
+                                    </ul> 
+                                </div>
+                               
+                                <div class="mobile-view-btn mt-5">
+                                	<div class="header_md_btn">
+                                	<div class="demo_btn">
+                                 		<a style="padding-left:15px;margin-top:30px;color:#fff;" class="login" title="login - iSmartRecruit" href="https://app.ismartrecruit.com" class="login-link">Login</a>
+                                     </div>
+                                	 <!-- <div class="demo_btn">
+                                 		<a href="" class="mobile-view-demo">Get a Demo</a>
+                                     </div>  -->
+                                   	<div class="trail_btn">
+                                   		 
+                                   		 <a href="https://www.ismartrecruit.com/request-demo" class=" mobile-view-trial">Get a Demo</a>
+                                   	</div>
+                                </div>
+                               	
+                                <hr class="mobile_view_tab_line" style="color:#fff;">  
+                                </div> 
+                            </div> 
+                            
+                        </li>
+                    </ul><!--end navigation menu-->
+                      
+                              
+                </div><!--end navigation-->
+            </div><!--end container-->
+        </header><!--end header-->
+        <input type='hidden' name='hidden'
+	id='hiddenSearchVideoModelheader' data-toggle="modal" data-target="#modalVideo">
+<div id="searchAddVideoModelHeader"></div>
+           			    <!-- End of Topbar -->
+            		    <!-- Begin Page Content -->
+            			   <!-- Hero Start -->
+<style>
+
+.blog-details_heading .blog_heading h1{
+  color: #132f3a!important;
+}
+.blog_content h2{
+    font-size: 38px;
+    padding-top: 22px;
+    font-weight: 700 !important;
+}  
+.blog_content h3 {
+    font-size: 26px;
+    color: #132f3ae0;
+    padding-top: 15px;
+    font-weight: 600;
+}
+.blog_content h4 {
+    font-size: 22px;
+    color: #132f3ae0;
+    padding-top: 10px;
+    font-weight: 500;
+}
+.blog_content h5 {
+    font-size: 18px;
+    color: #132f3ae0;
+    padding-top: 10px;
+    font-weight: 500;
+}
+.blog_content h6 {
+    font-size: 18px;
+    color: #132f3ae0;
+    padding-top: 10px;
+    font-weight: 500;
+}
+.blog_content h2 b, strong{
+	font-weight: unset;
+}
+.blog_content h3 b, strong{
+	font-weight: unset;
+}
+.blog_content h4 b, strong{
+	font-weight: unset;
+}
+.blog_content p b, strong{
+	font-weight: 500;
+}
+.blog_content a{color:#1b80cb;font-weight: 500;}
+.blog_content dl, ol, ul {margin-top: 25px;}
+.share-icons{background: transparent;}
+img{
+    width: 100%;
+    height: auto;
+}
+.lang-switch{
+   margin: 5px;
+}
+#parent_blog main img{
+margin-top: 25px;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    display: block;
+    border-radius: 10px;
+}
+.blog_content li {
+	list-style: disc !important;
+}
+.JoinCompanies_in .JoinCompanies_img .nightIMG img {
+	position: absolute;
+	top: -40px !important;
+	width: 51%;
+}
+.JoinCompanies_in .JoinCompanies_img .popupIMG .vid_icon {
+	position: absolute;
+	top: 30%;
+	width: 100px;
+	z-index: 20;
+	width: 120px;
+	cursor: pointer;
+	left: 68%;
+	top: 28%;
+}
+.blog_popup {
+	width: 90%;
+}
+.blogs-content__inner .mainContent .fixed {
+	position: fixed;
+	top: 0;
+    right: 207px;
+}
+.blogs-content__inner .mainContent{
+    left: 0%;
+}
+.blog_popup_img_in {
+	position: relative;
+	z-index: 9999;
+	padding: 40px 75px;
+}
+.blog_popup_img_in .blog_popup_img {
+	width: 150px;
+    position: absolute;
+    bottom: -2px;
+    left: -25px;
+}
+.blogs_pop-up #closeDiv {
+	color: #000 !important;
+}
+.ebooks-popup {
+	width: 100%;
+	bottom: -15px !important;
+}
+.ebooks-popup {
+	z-index: 99;
+}
+.index_menu {
+    margin-bottom:40px;
+    background: transparent;
+    padding: 15px 15px 20px;
+    border-radius: 10px;
+}
+.index_menu .index_heading {
+    font-size: 32px !important;
+    padding: 15px 0px 15px;
+    color: #ff8902;
+    margin-bottom: 7px;
+    font-weight: 500;
+    border-bottom: 2px solid #ffdbb1;
+    display: block;
+    width: 100%;
+}
+.index_menu ul {
+	list-style: decs;
+	padding-right: 0px;
+	color: #333;
+}
+
+.index_menu li a {
+	color: #1b80cb;
+    font-weight: 600;
+    font-size: 16px;
+    transition: all .2s;
+}
+.index_menu li {
+	list-style-type:none!important;
+	transition: all .2s;
+}
+.blog-page__inner .blog-items {
+	height: 550px;
+}
+#tocBlogs ul li {
+	overflow-wrap: anywhere;
+	padding:0px 15px;
+}
+#tocBlogs ul li a:hover {
+	color:#1876d9;
+}
+#tocBlogs::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+	background-color: #F5F5F5;
+}
+#tocBlogs {
+    padding-bottom: 25px;
+    border-bottom: 2px solid #ffdbb1;
+	overflow-y: hidden;
+	height: auto;
+	max-height: fit-content;
+}
+#tocBlogs::-webkit-scrollbar {
+	width: 8px;
+	background-color: #a2a2a2;
+}
+#tocBlogs::-webkit-scrollbar-thumb {
+	border: 5px solid #a2a2a2;
+}
+.blog_content .blog-content h2 {
+	color: #212529;
+	padding-top: 90px;
+	margin-top: -60px;
+}
+.blog_content .blog-content h3 {
+	padding-top: 90px;
+	margin-top: -60px;
+}
+.index_menu li img {
+	display: none !important;
+}
+.index_menu li br {
+	display: none !important;
+}
+.blog_desc .author_img img {
+	width: 40px !important;
+	border-radius: 50%;
+}
+.share-icons__inner {
+	margin-top: 90px;
+}
+.share_icon-heading .share_head {
+	margin-top: 15px;
+	text-align: center;
+	color: #000;
+	font-weight: 500;
+	font-size: 30px !important;
+	margin-bottom: 0!important;
+}
+.blogsidebar .social_share_button{
+    border: none;
+    background: #e4f6ff;
+    line-height: 41px;
+}
+.social_share_button:hover{
+    border: none!important;
+    background: #ffffff !important;
+}
+.blogsidebar .share-icons__inner .social_share_button i{
+    color:#132f3a !important
+}
+.showOn_md_screen {
+	display: none;
+}
+.headervideo_tag {
+	color: #fff;
+	position: absolute;
+	bottom: 30px;
+	left: 55px;
+	font-size: 18px;
+}
+.blogs_pop-up .form-control {
+	display: none;
+}
+.blogs_pop-up .blog_pop-up-btn {
+	display: none;
+}
+.blogs_pop-up .blogpagePopUp_content {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	margin-right: 0%;
+}
+.blogs_pop-up .blogpagPopUp_cta a {
+	padding: 7px 20px;
+	background: #132e39;
+	border-radius: 30px;
+	margin-left: 20px;
+	color: #fff;
+	font-weight: 500;
+}
+.blogs_pop-up .blogpagPopUp_cta a:hover {
+	background: #fff;
+	color: #000;
+}
+.blogs_pop-up .blogpagePopUp_content .heading {
+	color: #000;
+	font-size: 16px !important;
+	margin-bottom: 0px;
+}
+.blogs_pop-up .blogpagePopUp_content .cont_decs {
+	color: #000 !important;
+	font-size: 14px !important;
+}
+.delayedPopup_cta {
+	padding: 7px 20px;
+	background: #132e39;
+	border-radius: 30px;
+	color: #fff;
+	font-weight: 500;
+}
+.delayedPopup_cta:hover {
+	color: #fff;
+}
+#Demo_Req_popup .backgroundOverlay {
+	z-index: 995 !important;
+}
+#Demo_Req_popup #btnClose {
+	font-size: 36px;
+	width: 35px;
+	position: fixed;
+	top: 50px;
+	right: 66px;
+	display: block;
+	text-align: right;
+	text-decoration: none;
+	color: #b1b1b1;
+}
+#Demo_Req_popup #btnClose:hover {
+	color: #fff !important;
+}
+#Demo_Req_popup .delayedPopupWindow {
+	width: 100%;
+	max-width: 670px;
+	margin-top: -15%;
+	background: transparent;
+	border-radius: 10px;
+	display: none;
+	position: fixed;
+	height: auto;
+	top: 40%;
+	left: 53%;
+	overflow: hidden;
+	z-index: 995 !important;
+}
+#Demo_Req_popup .Req_popup-content .Demo_Req_form input {
+	line-height: 24px;
+	font-size: 14px;
+}
+#Demo_Req_popup .Req_popup-content .Demo_Req_form input::placeholder {
+	font-size: 14px !important;
+	color: #8d8d8d !important;
+	font-weight: 400 !important;
+}
+#tocBlogs ul li a {
+    font-weight: 600!important;
+}
+#tocBlogs ul ul li a {
+    font-weight: 400!important;
+}
+
+#tocBlogs ul li a a{
+    pointer-events: none;
+    display: contents;
+}
+#tocBlogs ul ul li a a{
+    pointer-events: none;
+    display: contents;
+}
+.share-icons_md{
+    display:none;
+}
+.sidebar_margin{
+    width: 250px;
+    position: absolute;
+   right: 90px;
+}
+
+.blogContent_margin{
+   margin-top: 50px!important;
+}
+.blog-details__inner .blogPageSidebar .fixed {
+    position: fixed;
+    margin-top: 62px;
+}
+.blog-details__inner .blogPageSidebar .blog_sidebar_wd {
+       width: 250px;
+    box-shadow: none !important;
+    background: transparent;
+}
+.blog-details__inner p{
+    margin-bottom: 15px!important;
+    font-weight: 400;
+    color: #455963 !important;
+    font-size: 1.125rem;
+    line-height: 1.8;
+}
+.blog-details__inner .blogBanner{
+    margin-top:60px;
+}
+.loading_flex img {
+	width: 30px;
+}
+
+.back-to-top {
+	z-index: 9;
+}
+
+.Cookies-popup .Cookies-popup__inner {
+	background: #f7f7f7e3 !important
+}
+
+.blog_content .blog-content h2 em{
+    font-style: normal!important;
+}
+.blog_content .blog-content h3 em{
+   font-style: normal!important;
+}
+.index_menu li a em{
+    font-style: normal!important;
+}
+.blogPageSubDiv{
+    margin-top:115px!important;
+}
+.blogPageSubDiv .blogPageSubDiv_in{
+   width: 265px;
+    position: relative;
+    right: 4px;
+    background: #ffe2c1;
+    padding: 15px;
+}
+.index_menu ul{
+    padding:0;
+}
+.index_menu ul ul{
+    margin-top: 0;
+    padding-left: 25px!important;
+}
+.index_menu ul li {
+    list-style: none!important;
+}
+.index_menu ul ul li {
+    list-style:decimal !important;
+}
+.index_menu ul li {
+    list-style: none!important;
+}
+.index_menu ul ul li {
+    list-style:decimal !important;
+}
+.index_menu ul ul li::marker{
+    content: "-";
+    color:#139bff!important;
+    font-weight: 400;
+}
+#parent_blog main h2 em{
+    font-style: normal!important;
+}
+#parent_blog main h3 em{
+   font-style: normal!important;
+}
+.blogsidebar li a em{
+    font-style: normal!important;
+}
+.index_menu li a em:after {
+    content: url(assets/frontend/images/isr-blogs/pro-tip.svg);
+    position: relative;
+    top: 4px;
+}
+.authorIndicatorDiv{
+padding: 20px;
+    width:20px;
+    height: 20px;
+    background: #ffff;
+    transform: rotate(45deg);
+    position: relative;
+    left: 20px;
+    top: 32px;
+}
+.authorDescDIV .authorDescDIV_items {
+    display:flex;
+    flex-direction: column;
+    padding: 40px 30px 40px 20px;
+    border-radius: 10px;
+   background: #ffe1be;
+}
+
+.authorDescDIV .authorDescDIV_items .contentOFDesc{
+   margin-top: -25px;
+}
+.authorDescDIV .authorDescDIV_items .authorDescDIV_content{
+    border-radius: 10px;
+    padding: 20px 40px 20px;
+    background: #ffffff;
+    position: relative;
+    z-index: 10;
+}
+.authorDescDIV_content .para{
+    line-height: 30px;
+
+}
+.authorDescDIV .authorDescDIV_items .authorName_fld{
+    font-size: 26px;
+    font-weight: 600;
+    color:#0f4a60;
+    margin-left:20px;
+}
+.authorDescDIV .authorDescDIV_items .author_img img{
+    border: 5px solid #ffffff;
+    width: 70px !important;
+}
+.authorDescDIV .authorDescDIV_items .author_img span{
+    font-size:20px;
+    font-weight: 500;
+}
+.authorDescDIV .authorDescDIV_items .authorDescDIV_content .author_img img{
+        display:none;
+    }
+ #topnav.nav-sticky {
+    height: 67px;
+    top: -70px;
+}
+.share-iconsBG{background: #caeeff;border-radius: 10px;}
+@media screen and (max-width: 1399px) {
+
+	.JoinCompanies_in .JoinCompanies_img .popupIMG .vid_icon {
+		left: 73%;
+		top: 22%;
+	}
+	.blogs-content__inner .mainContent .fixed{
+	   right: 242px;
+	}
+}
+@media screen and (max-width: 1360px) {
+	.blogs-content__inner .mainContent .fixed{
+	   right: 242px;
+	}
+}
+@media ( max-width : 1199px) {
+.blog-details__inner .blogPageSidebar .blog_sidebar_wd{width:100%;}
+    .sidebar_margin{
+       position: relative!important;
+       top:0;
+       right:0;
+       width: 100%;
+    }
+    .blogPageSubDiv{width:100%;margin-top: 20px !important;}
+    .blogPageSubDiv .blogPageSubDiv_in{width:100%!important;right:0px;padding: 20px;}
+    .share-iconsBG{
+      width: 100%!important;
+      padding: 15px;
+    }
+	.JoinCompanies_section_hide {
+		display: none !important;
+	}
+	.JoinCompanies_section_show {
+		display: block;
+	}
+	.JoinCompanies_in .JoinCompanies_img .nightIMG img {
+		position: relative;
+		top: 50px;
+		width: 100%;
+		margin-top: 50px;
+	}
+	.JoinCompanies_in .JoinCompanies_img .IMGitems img {
+		display: block !important;
+	}
+	.JoinCompanies_in .JoinCompanies_img .popupIMG .vid_icon {
+		width: 130px;
+		left: 43%;
+		top: 56%;
+	}
+	.showOn_md_screen {
+		display: block !important;
+	}
+	.JoinCompanies_in_row .JoinCom_btn {
+		margin-top: 0px !important;
+		justify-content: center;
+	}
+}
+
+@media ( max-width : 1080px) {
+  .sidebarLGS {
+   display:none!important;
+ }
+}
+
+@media ( max-width : 992px) {
+    #topnav.nav-sticky {
+    height: 67px;
+    top: 0px;
+    }
+    
+    .blog-details__inner .blogPageSidebar .blog_sidebar_wd {
+        width:100%!important;
+    }
+    .sidebar_margin{
+        margin-top: 100px !important;
+    }
+    .blogPageSidebar .blogsidebar .blogs_cat{
+        display:none!important;
+    }
+     .blogPageSidebar .blogsidebar .explore_more{
+        display:none;
+    }
+    .blogsidebar .sidebar_head{
+        margin-top: 15px;
+        font-weight: 500;
+        font-size: 28px;
+        margin-bottom: 20px !important;
+        text-align: center;
+    }
+    .share-icons .share-icons__inner .justify-content-start{
+        justify-content: center !important;
+    }
+    .blogPageSidebar .blog_sidebar_wd {
+        border: none !important;
+        box-shadow: none!important;
+    }
+    .blog-details__inner .blogBanner{
+        margin-top:0px;
+    }
+    .index_menu{
+    display:none!important;
+    }
+	.blog_popup_img_in .blog_popup_img {
+		display: none !important;
+	}
+	.blogs_pop-up .reletive {
+		margin-left: 20px;
+	}
+	.blogs_pop-up .blogpagePopUp_content {
+		margin-right: 40px;
+	}
+	.blogs_pop-up .blogpagePopUp_content .heading {
+		font-size: 12px !important;
+	}
+	.blogs_pop-up .blogpagePopUp_content .cont_decs {
+		font-size: 12px !important;
+	}
+	.JoinCompanies_in .JoinCompanies_img .popupIMG .vid_icon {
+		width: 100px;
+		left: 43%;
+		top: 60%;
+	}
+	.share-icons_md{
+        display:block;
+    }
+    
+    .blogContent_margin{
+       margin-top: 20px!important;
+       padding-left: 0px;
+    }
+    .blog_popup_img_in{
+        padding:0;
+    }
+    .blog-page__inner .blog-items {
+	   height: auto!important;
+    }
+    
+}
+
+@media ( max-width : 768px) {
+.authorDescDIV .authorDescDIV_items .authorName_fld{
+    font-size: 20px;
+}
+	#Demo_Req_popup #btnClose {
+		font-size: 24px;
+		top: 75px;
+		right: 20px;
+	}
+	#Demo_Req_popup .delayedPopupWindow {
+		width: 100%;
+		max-width: 100%;
+		margin-top: -15%;
+		background: transparent;
+		border-radius: 10px;
+		display: none;
+		position: fixed;
+		height: auto;
+		top: 20%;
+		left: 0;
+		overflow: hidden;
+		z-index: 995 !important;
+	}
+	.JoinCompanies_in .JoinCompanies_img .popupIMG .vid_icon {
+		width: 70px;
+		left: 42%;
+		top: 72%;
+	}
+	.blogs_pop-up .blogpagePopUp_content {
+		flex-direction: column;
+		align-items: start;
+		margin-bottom: 20px;
+	}
+	.blogs_pop-up .blogpagPopUp_cta a {
+		padding: 7px 20px;
+		font-size: 12px !important;
+		margin-left: 0px;
+	}
+	.blogs_pop-up p {
+		margin-bottom: 8px;
+	}
+}
+@media screen and (max-width: 480px) {
+	.headervideo_tag {
+		color: #fff;
+		position: absolute;
+		bottom: 20px;
+		left: 20px;
+	}
+}
+@media ( max-width : 440px) {
+	.JoinCompanies_in .JoinCompanies_img .popupIMG .vid_icon {
+		width: 50px;
+		left: 43%;
+		top: 77%;
+	}
+}
+</style>
+
+       <section>
+           <div class="blog-details-page reading-progress-container">
+               <div class="blog-details__inner">
+                   <div class="container">
+                       <div class="row blogBanner" style="display: flex;align-items: center;">
+                           <div class="blogs-content-md col-12">
+                               <div class="blog-details_heading">
+                                   <div class="blog_cat">
+                                       <a href="" rel="category tag">Technology</a>  | <span>7Min Read</span>                                       <hr>	
+                                   </div>
+                                   <div class="blog_heading">
+                                        <h1>Recruitment Chatbot: A How-to Guide for Recruiters</h1>
+                                   </div>
+                                   <div class="blog_desc">
+                                       <div class="author_img">
+                                            <img alt="author" src="https://www.ismartrecruit.com/upload/author/1728621436-1709374164409.png"> 
+                                       </div>                                      
+                                        <div class="author_name" >
+                                            <span itemprop="author" itemtype="https://schema.org/Person" itemscope>
+                                                Written by <a href="https://www.linkedin.com/in/amit-ghodasara-b7660a34/" target="_blank" title="Posts by Amit Ghodasara"
+                                                rel="author" itemprop='name'>Amit Ghodasara</a>
+                                            </span> 
+                                            
+                                        </div> 
+                                    </div>	
+                               </div>
+                           </div>
+                           <div class="col-12 ">
+                               <div class="blog_banner_img">
+                                   <div class="banner_image">
+                                       <img src="https://www.ismartrecruit.com/upload/blog/main_image/recruitment_chatbot_definition_features_and_benefits.webp" alt="Recruitment Chatbot: A How-to Guide for Recruiters" title="Recruitment Chatbot: A How-to Guide for Recruiters" item_prop="image" fetchpriority="high" loading="eager">
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                   </div>
+                   <div class="container">
+                        <div class="row">
+                            <!-- BLog Start -->
+                            <div class="col-12 blogContent_margin">
+                               <div class="index_menu">
+                                     <span class="index_heading">What Have We Covered?</span>
+                                         <nav id="tocBlogs"></nav>
+                                          </div>
+                                          <article itemtype="https://schema.org/CreativeWork" itemscope>
+                                            <div id="parent_blog" class="blog_content">
+                                               <main>
+                                                   <p dir="ltr">We live in a prosperous era where new technology is introduced to the world every day, changing and influencing the way we live.</p>
+<p dir="ltr">In this time of Industrial automation, AI Chatbot has become a commonly used application by almost every company worldwide to optimise growth and efficiency. </p>
+<p dir="ltr">But what is a Chatbot?</p>
+<p dir="ltr">How is it impacting the recruitment industry positively?</p>
+<p dir="ltr">Let's understand. </p>
+<p dir="ltr">A Chatbot is a software program which communicates (written or spoken) and assists its users. It is a virtual companion of humans that imitates human intelligence and integrates with websites, various messaging channels, and applications. Imitating human intelligence means it does everything humans do, such as learning, understanding, perceiving, and interacting. </p>
+<p dir="ltr">Almost every industry nowadays uses chatbots for different purposes, such as hospitality, E-commerce, healthcare, education, information technology, financial and legal, and <a href="https://www.ismartrecruit.com/blog-recruitment-technology-to-improve-hiring-workflow">recruitment technology</a>.  </p>
+<p dir="ltr">Now, you must be wondering what is the role of a chatbot for recruitment, right? </p>
+<p dir="ltr">Chatbot, also known as an AI companion, interacts with its users and provides information on multiple common questions. Often integrated within <a href="https://www.nextiva.com/blog/contact-center-software.html" target="_blank" rel="noopener">contact centre software</a> or customer service software, It helps companies to engage customers and understand their needs. It gives feedback data for sections that need improvisation. </p>
+<p dir="ltr">In this article, we will learn how recruitment chatbot impacts the recruitment industry. We will understand how AI recruiting chatbot is streamlining communication with candidates. </p>
+<h2 dir="ltr"><strong id="docs-internal-guid-33ce1f05-7fff-f829-f263-141080ccdcec">Why Recruiters Started Using Recruitment Chatbots?</strong></h2>
+<p dir="ltr">Recruitment Chatbot utilisation and adaptation have increased in the recruitment landscape as the trend of virtual recruiting started booming after the COVID-19 pandemic. </p>
+<p dir="ltr">There were plenty of ways to conduct <a href="https://www.ismartrecruit.com/blog-virtual-recruiting-strategies-and-benefits">virtual recruiting</a>, for example, online assessments, voice or video call interviews, virtual career events, etc. </p>
+<p dir="ltr">Among all these ways, the Recruitment Chatbot function became useful because of its instant and accurate response to standard questions (24/7), its feature of enabling candidates to apply for a job and providing the application status immediately. </p>
+<p dir="ltr">This way, recruitment chatbots reduce recruitment professionals' work and help them focus on other essential recruitment tasks.</p>
+<p dir="ltr">As a result, many staffing agencies and large recruitment firms started using this <a href="https://www.ismartrecruit.com/blog-talent-acquisition-software-guide-for-recruiters">AI-powered talent acquisition tool</a> to improve the candidate experience in the recruitment process.</p>
+<p dir="ltr">Okay, now we are clear on why HRs and recruiters began using this powerful recruitment tool. Now, let's understand its meaning and top use cases.</p>
+<h2 dir="ltr">What is a Virtual Recruiting Chatbot?</h2>
+<p dir="ltr">A virtual recruiting bot is an AI-based personal assistant. It is also known as AI Recruitment Chatbot. </p>
+<p dir="ltr">It communicates with job applicants (written or spoken) about vacancies, allowing them to ask questions related to the job opening and apply if they are interested in the role with just one click. <strong> </strong></p>
+<h2 dir="ltr">Top 10 Usecases of Recruitment Chatbot</h2>
+<pre><a title="Explore Recruitment Chatbot Feature in ATS" href="https://www.ismartrecruit.com/features-chat-bot"><img src="https://www.ismartrecruit.com/upload/blog/Recruitment_Chatbot.webp.dat" alt="Recruitment Chatbot Feature in ATS " width="1260" height="375"></a></pre>
+<h3 dir="ltr">1. 24/7 Interaction (FAQ Bots)</h3>
+<p dir="ltr">Human interaction has a limitation of time. Recruiters can't communicate all the time and immediately with the questions of the candidates. <strong> </strong></p>
+<p dir="ltr">However, hiring a chatbot eliminates this drawback by providing instant and accurate answers to standard or frequently asked questions (FAQs). It responds to questions such as job description, location, or required critical skills in the job.</p>
+<p dir="ltr">A recruitment fact report by Talent Culture mentioned that a chatbot could automate <strong>70-80%</strong> of top-of-funnel recruiting activities.</p>
+<p dir="ltr">Automated responses to the applicants' queries save valuable time for the recruiters, so they can focus on more important tasks they have to do during high-volume hiring. Chatbot integrated into <a href="https://www.ismartrecruit.com/high-volume-recruiting-software">high volume recruiting software </a>provides answers in text and video format. <strong> </strong></p>
+<p>In addition, the recruitment bot collects basic information such as the name, email ID, resume, and answers to the pre-screening questions from the applicants. This way, it saves a lot of time for the recruiters. Also, it gives an impression of the innovative and modern <a href="https://www.ismartrecruit.com/blog-company-culture-and-its-important">company culture</a> that attracts more candidates. </p>
+<h3 dir="ltr">2. Career Page Chatbot </h3>
+<p dir="ltr">Recruitment Chatbot’s integration with the career page allows recruiters to improve engagement with the candidates who visit the career site. According to a career site chatbot <a href="https://thrivemyway.com/recruitment-stats" target="_blank" rel="noopener">report by Thrive My Way</a>, 95% more job seekers become leads, 40% more job seekers complete an application, and  13% more job seekers click apply on a job requisition.<strong> </strong></p>
+<p dir="ltr">Career page Chatbot for recruitment engages with job seekers by providing answers to some helpful questions about the company's values, vision, journey, and work culture. Applicants can directly upload their <a href="https://www.ismartrecruit.com/blog-tips-make-your-resume">resumes on the career page</a> and see the suitable open positions in the firm. AI technology helps in this filtering process of matching jobs as per the uploaded resume by the candidates.  </p>
+<h3 dir="ltr">3. Job Description Bot</h3>
+<p dir="ltr">Recruiters, hiring managers, and hiring teams struggle to write different job descriptions for different open roles. It is an integral part of effective <a href="https://www.ismartrecruit.com/blog-recruitment-marketing-guide">recruitment marketing</a> to attract more candidates. </p>
+<p dir="ltr">Here, an AI-powered job description assistant could be the biggest help in <a href="https://www.ismartrecruit.com/blog-what-is-job-description-how-to-write-it-effectively">writing a detailed description</a> for the open position. It also analyses and provides feedback on the manually written job description. </p>
+<h3 dir="ltr">4. Candidate Sourcing Bot </h3>
+<p dir="ltr">A recruitment chatbot can be a helpful tool for <a href="https://www.ismartrecruit.com/blog-ways-recruiters-source-the-candidates">sourcing the best candidate</a> for the open position. Also, It approaches passive candidates who are currently not looking for a job. In addition, candidates are more comfortable with Chatbot than recruiters because there is less commitment.</p>
+<p dir="ltr">Also, It saves a lot of time for recruiters on candidates who aren't interested in the job and not likely to join the firm. </p>
+<h3 dir="ltr">5. Applicant Screening Bots </h3>
+<p dir="ltr">It eliminates pre-screening calls for recruiters. The AI recruitment chatbot screens the candidates for the first round and eliminates the pre-screening part for recruiters. It asks important questions such as intent to relocate, notice period, and salary expectation with ease and collects the responses of the applicants. These crucial questions provide data that are not available in the resume.</p>
+<h3 dir="ltr"><span id="docs-internal-guid-16a3034a-7fff-b831-53e7-f569217ec9c8">6. Application Via Virtual Recruiting Chatbot </span></h3>
+<pre><img src="https://www.ismartrecruit.com/upload/blog/Automation_tool_helps_(2).webp.dat" alt="Recruitment Chatbot" width="1260" height="750"></pre>
+<p dir="ltr"><strong>66%</strong> of job seekers are comfortable with AI apps and recruitment Chatbots to help with interview scheduling and preparation, as found in a survey by The Allegis survey. </p>
+<p dir="ltr">Job applicants can get information on the latest <a href="https://www.ismartrecruit.com/blog-9-ways-market-your-job-opening">job openings</a> in the company. Also, they can inquire about the critical skills required for the position they are applying for in the firm. Once they confirm the job they want, they can apply directly through a Chatbot. </p>
+<h3 dir="ltr">7. Interview Scheduling Bot </h3>
+<p dir="ltr">Once candidates are willing to apply for the job after interacting with Chatbot, they can <a href="https://www.ismartrecruit.com/blog-interview-scheduling-process-that-improves-candidates-experience">schedule interviews</a> by integrating with the company's calendar and selecting a convenient time for them and the HR team. Automated interview scheduling will save much time for both the candidates and recruiters. </p>
+<h3 dir="ltr">8. Application Status Via Recruitment Chatbot </h3>
+<p dir="ltr">Recruiters can't answer numerous candidates about their performance in the pre-screening and interview rounds. Sometimes, that led to a negative experience among the candidates. However, with the hiring chatbot, applicants can easily and immediately track their application status. They will get instant feedback. </p>
+<h3 dir="ltr">9. Enable Positive Candidate Engagement </h3>
+<pre><img src="https://www.ismartrecruit.com/upload/blog/Automation_tool_helps_(1).webp.dat" alt="Bad Candidate Experience" width="1260" height="750"></pre>
+<p dir="ltr">The latest report by Career Plug found that <strong><a href="https://www.careerplug.com/blog/candidate-experience-statistics/" target="_blank" rel="noopener">67%</a> </strong>of applicants had at least one bad experience during the hiring process. As a result, <strong><a href="https://www.careerplug.com/blog/candidate-experience-statistics/" target="_blank" rel="noopener">58%</a></strong> of candidates didn't accept the job offer. Hence, to tackle this problem, a recruitment Chatbot is a vital tool. </p>
+<p dir="ltr">Virtual recruiting Chatbot provides accurate answers to the standard questions without burdening recruiters with more work. Providing AI-based automation in the <a href="https://www.ismartrecruit.com/blog-recruitment-process-guide-for-recruiters">recruitment process</a> reduces time and cost for the company. Also, Chatbot increases transparency in the hiring process. Candidates can quickly know the information they need and can apply for the job. So, <a href="https://www.ismartrecruit.com/candidate-relationship-management-software">candidate relationship management</a> will also improve. </p>
+<h3 dir="ltr">10. Feedback and Prioritise the Best Applicant with a Recruiting Bot </h3>
+<p dir="ltr">The recruitment chatbot prepares a database of a list of the most suitable candidates based on their responses to the pre-screening questions. For example, It divides candidates into different categories based on questions such as salary expectation, intent to relocate, and notice period. Also, it recommends skilled candidates to the recruiters and the hiring teams.</p>
+<h2 dir="ltr">How to Set Up a Recruitment Chatbot? </h2>
+<p dir="ltr">In the current time, <a href="https://www.ismartrecruit.com/">AI-powered recruitment tools</a> like Snatchbot enable organisations to create smart bots for various purposes. It streamlines the complexity of creating a chatbot and helps to build the best bot experience for clients.</p>
+<p dir="ltr">The tool supports the entire life cycle of the bots, from inventing and testing to deploying, publishing, tracking, hosting and monitoring and includes NLP, ML and voice recognition features. Let’s now understand how to develop the AI-powered bot for recruitment purposes. </p>
+<ul>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">Firstly, recruiters must identify which type of chatbot they want to create. One can create a totally automated or human hybrid chatbot according to their preferences. <strong> </strong></p>
+</li>
+</ul>
+<ul>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">Afterwards, design a conversation job application to use simple or multiple choices. Also, it facilitates adding more complex decisions such as action buttons, translation, collecting payments, sending receipts, etc. <strong> </strong></p>
+</li>
+</ul>
+<ul>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">Once it is done, it’s time to integrate the chatbot with your preferred recruitment management tool. In this case, it’s the <a href="https://www.ismartrecruit.com/blog-applicant-tracking-system-guide-for-recruiters">Applicant Tracking System</a> (ATS). <strong> </strong></p>
+</li>
+</ul>
+<ul>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">Then, apply conditions to screen candidates in real-time. Finally, test and train your hiring bot once it is ready. <strong> </strong></p>
+</li>
+</ul>
+<p><strong>Note:</strong> Don’t forget to collect candidates’ feedback about the hiring chatbot. Also, closely monitor the recruitment bot analytics to enhance it. </p>
+<h2>Why is a Recruitment Chatbot Vital in Virtual Recruiting? (Benefits) </h2>
+<p dir="ltr">Chatbots ease the complex process (of hiring various candidates for different roles) in a short period. It saves time by providing AI-powered functions that automatically manage, reschedule, and cancel different tasks for interviewers and candidates, making it more accurate and transparent.</p>
+<p>Improving the candidate experience is indeed the main priority of employers because <strong>72%</strong> of applicants who have a poor application experience shared it online on review sites, social media platforms, or directly with their professional or personal contacts, as mentioned in one report by Landbot. Hence, By responding immediately, Chatbots engage with their users and increase <a href="https://www.ismartrecruit.com/blog-what-is-candidate-engagement-and-why-does-it-matter-ismartrecruit">candidate engagement</a>. Also, it qualifies the applicant instantly by asking different questions. </p>
+<p>The AI Chatbot answers standard questions and upgrades applicants' knowledge. It provides information to those who want to know more about the company (product, vision, values, and culture). It improves the candidate experience by providing answers immediately and offering 24/7 support.</p>
+<p>It does multiple tasks, such as pre-screening the candidate, scheduling an interview and providing feedback on the applicant's status, in no time. </p>
+<p><a href="https://www.ismartrecruit.com/blog-recruiters-manage-productive-whole-year">Recruiter's Productivity</a> will increase as the Chatbot does all the manual and repetitive tasks and reduces the workload. It enables hiring teams and recruiters to focus on other important and strategic tasks which require human thinking. </p>
+<p>In addition, it prioritises the best candidates by collecting the responses from the candidates and lessens the manual work for recruiters to do pre-screening calls. It helps reduce hiring time and cost by interacting and engaging with job seekers in a humanistic way. </p>
+<h2 dir="ltr">Recruitment ChatBot’s Real-world Success Story </h2>
+<h3 dir="ltr">The Problem VBZ Was Facing </h3>
+<p dir="ltr">It’s true that recruiters are struggling to provide a positive candidate experience while hiring talent in bulk. <a href="https://www.stadt-zuerich.ch/vbz/en/index.html" target="_blank" rel="noopener nofollow">Verkehrsbetriebe Zurich (VBZ)</a> was facing the same obstacle in the past. The organisation was trying to remove the corporate perspective from the candidate experience and make it more candidate-centric. The conversion rate in the hiring was low due to the overly strict hiring process. The hiring process was complex and took a lot of effort.</p>
+<p dir="ltr">However, they found a Recruitment Chatbot as a recruitment solution that works for them. </p>
+<h3>Outstanding Solution via AI Recruitment Chatbot </h3>
+<p dir="ltr">After using the hiring bot in the recruitment workflow, VBZ started to experience following positive changes. <strong> </strong></p>
+<ul>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">VBZ chat with talent 24x7</p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">Allows to give contextual candidate experience </p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">Built strong relationships with the talent in the recruitment pipeline</p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">Gain more feedback insights and improve their communication strategy</p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">Improve the strict hiring process</p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">Enhance their candidate touchpoints</p>
+</li>
+</ul>
+<h2>Final Thought on Recruitment Bot </h2>
+<p dir="ltr">Indeed, modern technology is a blessing for the human race. Using cutting-edge technology like AI-powered tools and Chatbots can ease the recruitment process for mass recruiters and staffing agencies. </p>
+<p dir="ltr">Chatbots offer numerous features that remove repetitive hiring tasks. It helps to automate recruiting, from discovering talent to hiring the best individuals. The fruitful benefits of recruitment chatbots are that they reduce the burden of repetitive tasks and enable the hiring teams to concentrate on more critical tasks.</p>
+<p dir="ltr">As a result, recruitment Chatbots have become an integral part of the virtual recruiting process for all those who are looking for ways to elevate talent engagement. </p>
+<p dir="ltr" role="presentation">So, do you want help with promptly providing answers to standard questions to hundreds of candidates?</p>
+<p dir="ltr" role="presentation">Do you want to let your candidates apply for open jobs by themselves?</p>
+<p dir="ltr" role="presentation">Do you want to provide feedback status to applicants in a timely manner? </p>
+<p dir="ltr">If so, then look no further than iSmartRecruit! </p>
+<p dir="ltr">Say hello to your new recruitment partner, our AI Recruitment Chatbot feature in ATS to streamline and elevate candidate communication, save time, reduce cost-per-hire, and engage with talent 24/7, providing prompt replies to standard questions. <a href="https://www.ismartrecruit.com/request-demo"><strong>Book a Free Demo Now! </strong></a></p>
+<pre dir="ltr"><a title="Improve Candidate Engagement with iSmartRecruit's AI Recruitment Chatbot " href="https://www.ismartrecruit.com/request-demo?utm_source=blog&utm_medium=blog_cta_image&utm_campaign=cta_demo"><img src="https://www.ismartrecruit.com/upload/blog/Chatbot_-_Demo.webp.dat" alt="Improve Candidate Engagement with iSmartRecruit's AI Recruitment Chatbot " width="1260" height="300"></a></pre>                                                
+                                                </main>
+                                                <div class="stop-sidebar" style="clear: both; padding-top: 15px"></div>
+                                                
+                                       <!-- Author Info Start-->
+                                                                                    <div class="blog_desc authorDescDIV">
+                                                                                          	<h2 class="mb-4">About the Author</h2>
+                                              	 <div class="authorDescDIV_items">
+                                                  	<div class="author_img d-flex align-items-center">
+                                                		<div><img alt="author" src="https://www.ismartrecruit.com/upload/author/1728621436-1709374164409.png"> </div>
+                                                		<div class="authorName_fld" itemprop="author" itemtype="https://schema.org/Person" itemscope>
+                                                    		Amit Ghodasara                                                    	</div>
+                                                	</div>  
+                                                	   <div class="contentOFDesc">
+                                                		    <div class="authorIndicatorDiv"></div>
+                                                        	<div class="authorDescDIV_content">
+                                                     			<div class=para>Amit Ghodasara is the CEO of iSmartRecruit, leading the charge in HR technology. With years of experience in recruitment, he focuses on developing solutions that optimize the hiring process. Amit is passionate about empowering recruiters to achieve success with innovative, user-friendly software.</div>
+                                                                <div class="mt-4"><p> You can find Amit Ghodasara's on <a href="https://www.linkedin.com/in/amit-ghodasara-b7660a34/" target="_blank" title="Posts by Amit Ghodasara"
+                                                                    rel="author" itemprop='name'>LinkedIn</a> here.</p>
+                                                                </div>
+                                                           </div>
+                                                	 </div>
+                                              	</div>
+                                             </div> 
+                                            
+                                       <!-- Author Info End-->
+                                            </div>
+                            			 </article>
+                            </div>
+                            <!-- BLog End -->
+                            <!-- START SIDEBAR -->
+                            <div class="col-lg-2 col-md-12 blogPageSidebar sidebar_margin">
+                                <div class="card border-0 rounded shadow blog_sidebar_wd ">
+                                    <div class="card-body sidebar-items ">
+                                       <div class="blogsidebar">
+<!--         									<div class="blogs_cat"> -->
+<!--         										<div class="blogs_cat_inner"> -->
+ <!--       											<h4 style="padding-top:0;">Categories</h4>
+<!--         											<div> -->
+<!--        												<li><a href="">Recruiting</a></li>
+ <!--       												<li><a href="">Technology</a></li>
+<!--         											</div> -->
+<!--         											<div> -->
+ <!--       												<li><a href="">HR &
+<!--         														People</a></li> -->
+ <!--       												<li><a href="">Culture
+<!--         														& Branding</a></li> -->
+<!--         											</div> -->
+<!--         										</div> -->
+<!--         									</div> -->
+        									<div>
+        										<div class="blogPageSubDiv mt-4">
+        											<div class="blogPageSubDiv_in">
+        												<h4 class="blogPageSubTitle">
+        													Join our email subscribers & <br>get great blogs like this
+        													periodically.
+        												</h4>
+        												<div class="dzPoPUpSubFormMsg"></div>
+        												<div class='dzSubscribeFormMsg'></div>
+        												<form
+        													action='https://www.ismartrecruit.com/Home/blog_subscribe_mail'
+        													method="post" id="frmBlogSub" accept-charset="utf-8">
+        													<div class="form-group">
+        														<input type="hidden" name='successPage'
+        															value='request-demo-success'>
+        														<input type="email" name="newsLetter" class="form-control"
+        															placeholder="Email" required
+        															pattern="[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~.-]+@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*">
+        														<div id='loadingIcon'></div>
+        														<div>
+        															<input type="submit" class="blog_pop-up-btn"
+        															value="Subscribe" id="blogSubscibeBtn"
+        															name="popUpSubSubmitBtn">
+        														</div>
+        													</div>
+        												</form>
+        											</div>
+        										</div>
+        									</div>
+        									<div class="share-icons share-icons_lg mt-4">
+        										<div class="share-icons__inner p-0 m-0">
+        											<div class="container" style="padding: 0px;">
+        												<div class="d-flex justify-content-start">
+        													<div class="share-iconsBG">
+        														<div class="share_icon-heading">
+        															<p class="sidebar_head">Don't
+        																forget to share this post</p>
+        														</div>
+        														<div class="share_icon-content share_icon_bottom">
+        															<div>
+                                                                    	                                                                        
+<div>
+	<div class="d-flex">
+		<div class="social_share_button" id="lik-share-button">
+          <i class="uil uil-linkedin"></i>
+        </div>
+        <div class="social_share_button" id="twr-share-button">
+            <span><img style="width: 36px !important;position: relative;right: 5px;top: -2px;" src="https://www.ismartrecruit.com/assets/frontend/images/home/twitter_bluelogo.webp" alt="twitter"></span>
+        </div>
+        <div class="social_share_button" id="insta-share-button" data-title="Recruitment Chatbot: A How-to Guide for Recruiters">
+           <i class="bi bi-envelope-fill"></i>
+        </div>
+        <div class="social_share_button" id="fb-share-button">
+           	<i class="uil uil-facebook-f"></i>
+        </div>
+	</div>
+</div>
+
+
+<script type="8580465767e0f380642c0dee-text/javascript">
+
+var fbButton = document.getElementById('lik-share-button');
+var url = window.location.href;
+
+fbButton.addEventListener('click', function() {
+    window.open('https://www.linkedin.com/sharing/share-offsite?url='+ url,
+        '_blank'
+    );
+    return false;
+});
+
+
+var fbButton = document.getElementById('twr-share-button');
+var url = window.location.href;
+
+fbButton.addEventListener('click', function() {
+    window.open('http://twitter.com/share?url=' + url,
+        '_blank'
+    );
+    return false;
+});
+
+
+var fbButton = document.getElementById('insta-share-button');
+var subject_title = fbButton.getAttribute('data-title');
+var url = window.location.href;
+var final_url = url.replace('#','');
+
+
+fbButton.addEventListener('click', function() {
+    window.open('mailto:?subject= '+subject_title+'&body=Check out this : '+final_url,
+        '_blank'
+    );
+    return false;
+});
+
+
+var fbButton = document.getElementById('fb-share-button');
+var url = window.location.href;
+
+fbButton.addEventListener('click', function() {
+    window.open('https://www.facebook.com/sharer/sharer.php?u=' + url,
+        '_blank'
+    );
+    return false;
+});	
+</script>                                                                    </div>
+        														</div>
+        													</div>
+        												</div>
+        											</div>
+        										</div>
+        									</div>
+<!--         									<div class="explore_more"> -->
+<!--         										<div class="head mt-4"> -->
+<!--         											<p class="sidebar_head">EXPLORE MORE</p> -->
+<!--         										</div> -->
+<!--         										<div class="sidebar_links"> -->
+<!--        											<a href="">E-Books</a>
+<!--        											<a href="">Webinars</a>
+<!--        											<a href="">Case Studies</a>
+<!--         										</div> -->
+<!--         									</div> -->
+        								</div>
+                                    </div>
+                                </div>
+                            </div><!--end col-->
+                            <!-- END SIDEBAR -->
+                        </div><!--end row-->
+                    </div><!--end container-->
+               </div>
+            </div>
+        </section>
+
+
+             <section class="related-blog" style="z-index:1;">
+                <div class="blog-page"  style="background: #fff!important;padding-top:60px;">
+                    <div class="container">
+                        <div class="blog-page__inner">
+                            <div class="row">
+                                <div class="blog-title" style="padding-bottom:40px;"">
+                                    <h2>Related Articles</h2>
+                                </div>
+                            </div>
+             				                    <div class="row">
+                                              <div class="col-lg-4 col-md-12">
+                        
+                         
+                           <a href="https://www.ismartrecruit.com/blogs/candidate-sourcing/tools">
+ 								 <div class="blog-items">    
+                                <div class="blog-img">
+                                    <img src="https://www.ismartrecruit.com/upload/blog/main_image/candidate_sourcing_tools.webp" alt="Next-Gen Top 10 Candidate Sourcing Tools For Your Team">
+                                </div>
+                                <div class="blog-content">
+                                  <a href="https://www.ismartrecruit.com/blogs/candidate-sourcing/tools" title="Next-Gen Top 10 Candidate Sourcing Tools For Your Team" class="blog-heading"> <h5>Next-Gen Top 10 Candidate Sourcing Tools For Your Team</h5></a> 
+                                    <p>Ever felt like your hiring process is stuck in the stone age? Imagine giving your team a serious upgrade with a next-gen Candidate...</p>                                        
+                                </div>
+                                <div class="blogs_content_author">
+                                    <div class="img" >
+                                        <img src="https://www.ismartrecruit.com/upload/author/1728621436-1709374164409.png" alt="author image">
+                                    </div>
+                                    <div class="name">
+                                        <h6><a rel="nofollow" href="https://www.linkedin.com/in/amit-ghodasara-b7660a34/" target="_blank" title="Posts by Amit Ghodasara" rel="author">Amit Ghodasara</a><span>December 2, 2024</span></h6>
+                                    </div>
+                                </div>
+                            </div>                           
+                           </a>   
+                        </div>
+                                          <div class="col-lg-4 col-md-12">
+                        
+                         
+                           <a href="https://www.ismartrecruit.com/blog-ats-buyer-guide-step-by-step-process">
+ 								 <div class="blog-items">    
+                                <div class="blog-img">
+                                    <img src="https://www.ismartrecruit.com/upload/blog/main_image/ATS_Banner.webp" alt="Complete ATS Buyers’ Guide | Step-by-step Process">
+                                </div>
+                                <div class="blog-content">
+                                  <a href="https://www.ismartrecruit.com/blog-ats-buyer-guide-step-by-step-process" title="Complete ATS Buyers’ Guide | Step-by-step Process" class="blog-heading"> <h5>Complete ATS Buyers’ Guide | Step-by-step Process</h5></a> 
+                                    <p>Well, there could be two reasons that you choose to explore this guide.  
+1. You want to smoothly manage and automate your recr...</p>                                        
+                                </div>
+                                <div class="blogs_content_author">
+                                    <div class="img" >
+                                        <img src="https://www.ismartrecruit.com/upload/author/1728621436-1709374164409.png" alt="author image">
+                                    </div>
+                                    <div class="name">
+                                        <h6><a rel="nofollow" href="https://www.linkedin.com/in/amit-ghodasara-b7660a34/" target="_blank" title="Posts by Amit Ghodasara" rel="author">Amit Ghodasara</a><span>March 14, 2024</span></h6>
+                                    </div>
+                                </div>
+                            </div>                           
+                           </a>   
+                        </div>
+                                          <div class="col-lg-4 col-md-12">
+                        
+                         
+                           <a href="https://www.ismartrecruit.com/blog-best-candidate-management-system">
+ 								 <div class="blog-items">    
+                                <div class="blog-img">
+                                    <img src="https://www.ismartrecruit.com/upload/blog/main_image/Banner_Designs_(1).jpg" alt="Discover the Best Candidate Management Systems of 2024">
+                                </div>
+                                <div class="blog-content">
+                                  <a href="https://www.ismartrecruit.com/blog-best-candidate-management-system" title="Discover the Best Candidate Management Systems of 2024" class="blog-heading"> <h5>Discover the Best Candidate Management Systems of 2024</h5></a> 
+                                    <p>Managing a large number of candidates is difficult, right?
+Because it comes with a lot of tasks, when you have a lot on your plat...</p>                                        
+                                </div>
+                                <div class="blogs_content_author">
+                                    <div class="img" >
+                                        <img src="https://www.ismartrecruit.com/upload/author/1710840401-IMG_1214.jpg" alt="author image">
+                                    </div>
+                                    <div class="name">
+                                        <h6><a rel="nofollow" href="https://www.linkedin.com/in/twinkal-bhaliya/" target="_blank" title="Posts by Twinkal Bhaliya" rel="author">Twinkal Bhaliya</a><span>June 20, 2023</span></h6>
+                                    </div>
+                                </div>
+                            </div>                           
+                           </a>   
+                        </div>
+                                    </div>                        </div>
+                    </div>
+                </div>
+            </section>
+         
+ <!-- page-link  -->
+       		<section id="section_id" style="z-index: 1;">
+            	<div class="JoinCompanies_section landingvideo_sec">
+            		<div class="JoinCompanies_in pt-3" style="padding-bottom:15px;">
+            			<div class="container">
+            				<div class="row">
+            					<div class="col-xl-6 JoinCompanies_in_row">
+            						<div class="content">
+                						<div class="JoinCompnies_content" style="padding-top:35px;">
+                            				<div class="JoinCompanies_head">
+                            					<h3 style="font-weight:700;font-size:28px;">Join Our Award-Winning AI Recruitment Software</h3>
+                            				</div>
+                                			<div class="JoinCompanies_head">
+                                				<P>Demos are a great, fast way to learn about iSmartRecruit. <br>Connect with us now to learn more!</P>
+                    						</div> 
+                						</div>
+                						<div class="showOn_lg_screen">
+                        					<div class="JoinCom_btn d-flex lg_screen_btn" style="padding-bottom:15px;margin-top:-30px;">
+                        						<div id="JoinCompanies_btn">
+                        							<div>
+                        								<a class="Landing_baner_trial_btn" style="padding: 12px 30px !important;"
+                        									href="https://www.ismartrecruit.com/request-demo">Get a Demo</a>
+                        							</div>    
+                        							<div class="mt-2">
+                        								<span class="JoinCompanies_trial_Decs">30 minutes to explore the software.</span>
+                        							</div>  							
+                        						</div>
+                        					</div>
+                        				</div>
+                					</div>
+            					</div>
+            					<div class="col-xl-6 JoinCompanies_img">
+                        				<style>
+    .play-icon {
+    position: absolute;
+    bottom: 50%!important;
+    -webkit-transform: translateY(50%);
+    transform: translateY(50%);
+    right: 40%!important;
+    left: auto;
+    text-align: center;
+}
+@media (max-width: 991px) {
+.landingvideo_sec .video_items .video_content .play-icon{
+    right: 40%!important;
+}
+}
+</style>
+
+<div class="video_items video_items_margin">
+                                <div class="video_content headerVidpopup">
+                                    <div class="content">
+                                       <div class="position-relative">
+                                           	<img rel="preload" as="image" style="margin-top: -50px;width:100%!important;" class="content-image"  src="https://www.ismartrecruit.com/assets/frontend/images/home/product-vid.webp" alt="ATS">
+                                            <div class="play-icon"">
+                                              <span id="popover_preview_embed" class="wistia_embed wistia_async_m2ybodnbj0 container=popover_preview_embed popover=true popoverContent=link" style="display:inline;position:relative">
+                                              	<a href="#"><img rel="preload" as="image" alt="play" class="vid-play-icon" src="https://www.ismartrecruit.com/assets/frontend/images/isr-other_img/video_play-icon.gif"></a>
+                                              </span>
+                                           </div>
+                                        </div>
+                                    </div>
+                                </div>
+                          </div>
+                          <input type='hidden' name='hidden'
+				id='hiddenSearchVideoModel' data-toggle="modal" data-target="#modal">
+<div id="searchAddVideoModel"></div>                				</div>
+                				<div class="showOn_md_screen">
+                					<div class="JoinCom_btn d-flex" style="padding-bottom:15px;margin-top:-30px;">
+                						<div id="JoinCompanies_btn">
+                							<div>
+                								<a class="Landing_baner_trial_btn" style="padding: 12px 30px !important;"
+                									href="https://www.ismartrecruit.com/request-demo">Get a Demo
+                								</a>
+                							</div>    
+                							<div class="mt-2">
+                								<span class="JoinCompanies_trial_Decs">30 minutes to explore the software.</span>
+                							</div>  							
+                						</div>
+                					</div>
+                				</div>
+                			</div>
+            			</div>
+            		</div>
+            	</div>
+            </section>
+<!--            <section id='emailSubscribeSectionBlog' style='display: none;'>
+<!--                 <div class="container-fluid  BG_on_section"> -->
+ <!--                   <div class="ebooks-popup blog-pop_up" style="box-shadow: none!important">
+<!--                        <div class="ebooks-popup__inner" style="border-radius:0px!important;background:none!important;">
+<!--                             <div class="ebooks-popup-items"> -->
+ <!--                                 <div class="ebooks" onload="write();">
+<!--                                     <div id="here"></div> -->
+<!--                                         <div class="row blogs_pop-up"> -->
+ <!--                                               <div id="popUpSubForm" style="background:#ffc889!important;">
+<!--                                                     <div class="reletive"> -->
+<!--                                                         <a class="closericon" id="popUpSubFormCloseBtn"></a> -->
+<!--                                                         <div class="blogpagePopUp_content"> -->
+<!--                                                         	  <div  class="blog_popup_img_in"> -->
+ <!--                                                                <img class="blog_popup_img" src="" alt="ATS+CRM">
+<!--                                                               </div> -->
+ <!--                                                           <div style="display: flex;flex-direction: column;">
+<!--                                                             	<div> -->
+<!--                                                             		<h4 class="heading">I hope you enjoy reading this blog post.</h4> -->
+<!--                                                             	</div> -->
+<!--                                                             	<div> -->
+<!--                                                             		<p class="cont_decs">If you want our team to automate your recruitment process, <b>just book a live demo</b>.</p> -->
+<!--                                                             	</div> -->
+<!--                                                             </div> -->
+<!--                                                             <div class="blogpagPopUp_cta"> -->
+<!--                                                             	<a href="" id="bookDemo">Get a Demo</a> -->
+<!--                                                             </div> -->
+<!--                                                         </div> -->
+<!--                                                         <div class="dzPoPUpSubFormMsg"></div>  -->
+<!--                                                         <div class='dzSubscribeFormMsg'></div>                                            -->
+<!--                                                        <form action='' method="post" id="frmBlogBookDemo" accept-charset="utf-8">
+<!--                                                            <input type="hidden" name="hidden_book_demo_blog_detail" id="hiddenDemoBlogDetails" value="book_demo_blog_details"> -->
+ <!--                                                          <input type="hidden" name="hidden_url" id="hiddenDemoUrl" value="">
+<!--                                                         </form>           -->
+<!--                                                     </div> -->
+<!--                                                 </div> -->
+  <!--                                          <button style="background: transparent;" type="button" id='closeDiv' class='closeEmailSubscribeDiv' onclick="eBookSectionClose();"><i class="uil uil-times-circle"></i></button>
+<!--                                      </div> -->
+<!--                                 </div> -->
+<!--                             </div> -->
+<!--                         </div> -->
+<!--                       </div> -->
+<!--                   </div>   -->
+<!--             </section>  -->
+    
+               <!-- blog section end -->
+                 
+ 
+    <div >
+       
+    
+    <div id='myID' style="display:block" class='bottomMenu hide'>
+        <div class="row">
+        		<div class="container">
+        			<div id="Demo_Req_popup">
+                        <div id="bkgOverlay" class="backgroundOverlay"></div>
+                     		<div id='delayedPopup' class='delayedPopupWindow'>
+                         	<div class="row" style="border-radius: 10px;">
+                         		<div class="Req_popup-content" style="padding:20px;justify-content: center;">
+                         		<a href="#" class="req_demo_popup_close" id="btnClose"><i class="uil uil-times-circle"></i></a>
+                         			 <div class="Demo_Req_form">
+                         			 	<div class="full_popup_head">
+                                        	<h4 style="color:#fff!important;text-align:center;">Overwhelmed by so Many Candidate Queries? </h4>
+                                        	<p style="color:#fff!important;text-align:center;">Our recruitment Chatbot can handle frequently asked questions. Say goodbye to repetitive queries & hello to high productivity.</p>
+                                        </div>
+                                        <div id="errMsg" style="background-color:red; color:white;"></div>
+                                        <form action='https://www.ismartrecruit.com/Home/request_demo_mail' id='frmRequestDemo' lang="en" spellcheck="false" class="form" accept-charset="utf-8">
+                                          
+                                           <input type="hidden" name="get_blog_url" id="sead_url" value="blog-recruitment-chatbot-overview">
+                                           
+                                            <div class="items form-icon position-relative">
+                                            <input type="hidden" id="comparisionPage" name="pageSource" value="blog-details">
+                                            <input type='hidden' id="comparisionPageType" name='type' value="blog-recruitment-chatbot-overview">
+                                            <input type='hidden' value ='Recruitment Chatbot: A How-to Guide for Recruiters' name="hiddenHiringProcess" id="hiddenHiringProcess" class="form-control">
+                                                <input type="hidden" name='successPage' value='request-demo-success'> 
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user fea icon-sm icons"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+                                                <input type="text" name='custom_name' id="msg-name" placeholder="Full Name" accesskey="n" minlength="2" autocomplete="name" required/>
+                                                <p id="nameErr" style="color: red!important;font-size: 14px;font-weight: 600;"></p>
+                                            </div>
+                                            <div class="items form-icon position-relative">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail fea icon-sm icons"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                                                <input type="text" name='custom_email' id="msg-email" placeholder="Email" accesskey="e" autocomplete="Your email" required  pattern="[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~.-]+@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*" />
+                                                <p id="mailErr" style="color: red!important;font-size: 14px;font-weight: 600;"></p>
+                                            </div>
+                                            <div class="items form-icon position-relative">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone fea icon-sm icons"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                                                <input type="tel" name='custom_phone' id="msg-phone" placeholder="Phone number" required onkeypress="if (!window.__cfRLUnblockHandlers) return false; return isNumber(event)" data-cf-modified-8580465767e0f380642c0dee-="" />
+                                                <p id="phoneErr" style="color: red!important;font-size: 14px;font-weight: 600;"></p>
+                                            </div>
+                                            <input type="button" style="display: none;" class="g-recaptcha" id="siteKey" data-sitekey="6LfhxKkmAAAAAPPEAUP2F9oFieVlPudszfSCgWz3">  
+                                            <div class="items d-flex justify-content-center">               
+                                                <button type="submit" id='requestDemoBtn'>Request Demo</button>
+                                            </div>
+                                        </form>  
+                                        <div class="loading_flex">
+                                        	<div id='loadingIcon1'></div>
+                                        </div>
+                                    </div>
+                                </div>
+                         	</div>
+                         	
+                        </div>
+                    </div>
+        		</div>
+        </div>
+    </div>
+  </div>
+  
+  
+  
+  
+    <style>
+ .grecaptcha-badge{
+ 	z-index:100!important;
+ }
+</style>
+<script src="https://www.google.com/recaptcha/api.js" type="8580465767e0f380642c0dee-text/javascript"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LfhxKkmAAAAAPPEAUP2F9oFieVlPudszfSCgWz3" type="8580465767e0f380642c0dee-text/javascript"></script>
+<script type="8580465767e0f380642c0dee-text/javascript">
+    
+        grecaptcha.ready(function() {
+        	var site_key = $('#siteKey').attr('data-sitekey');
+          grecaptcha.execute(site_key, {action: 'load'}).then(function(token) {
+              // Add your logic to submit to your backend server here.
+              console.log('ITS WORKING...');
+          });
+        });
+      
+  </script>        
+ <style>
+   .hide {opacity:0;display:none!important;}
+   .show { opacity:1;display:block;}
+   #Demo_Req_popup .Req_popup-content .Demo_Req_form .form{
+        position: relative;
+   }
+   #Demo_Req_popup .Req_popup-content .Demo_Req_form svg{
+    position: absolute;
+    top: 10px;
+    left: 13px;
+    color: #000;
+   }
+   #Demo_Req_popup .Req_popup-content .Demo_Req_form input{padding: 7px 40px;}
+</style>
+<script type="8580465767e0f380642c0dee-text/javascript">
+myID = document.getElementById("myID");
+
+var myScrollFunc = function () {
+    var y = window.scrollY;
+    if (y >= 4500) {
+        myID.className = "bottomMenu show"
+    } else {
+        myID.className = "bottomMenu hide"
+    }
+};
+window.addEventListener("scroll", myScrollFunc);
+</script>
+ 
+ <script type="8580465767e0f380642c0dee-text/javascript">
+	let tocId = "tocBlogs";
+
+                let headings;
+                let headingIds = [];
+                let headingIntersectionData = {};
+                let headerObserver;
+
+                function setLinkActive(link) {
+                  const links = document.querySelectorAll(`#${tocId} a`);
+                  links.forEach((link) => link.classList.remove("active"));
+                  if (link) {
+                    link.classList.add("active");
+                  }
+                }
+
+                function getProperListSection(heading, previousHeading, currentListElement) {
+                let listSection = currentListElement;               
+                if (previousHeading) {
+                    if (heading.tagName.slice(-1) > previousHeading.tagName.slice(-1)) {
+                    let nextSection = document.createElement("ul");
+                    listSection.appendChild(nextSection);
+                    return nextSection;
+                    } else if (heading.tagName.slice(-1) < previousHeading.tagName.slice(-1)) {
+                    let indentationDiff =
+                        parseInt(previousHeading.tagName.slice(-1)) -
+                        parseInt(heading.tagName.slice(-1));
+                    while (indentationDiff > 0) {
+                        listSection = listSection.parentElement;
+                        indentationDiff--;
+                    }
+                    }
+                }
+                return listSection;
+                }
+
+                function setIdFromContent(element, appendedId) {
+                if (!element.id) {
+                    element.id = `${element.innerHTML
+                    .replace(/:/g, "")
+                    .trim()
+                    .toLowerCase()
+                    .split(" ")
+                    .join("-")}-${appendedId}`;
+                }
+                }
+
+                function addNavigationLinkForHeading(heading, currentSectionList) {
+                let listItem = document.createElement("li");
+                let anchor = document.createElement("a");
+                anchor.innerHTML = heading.innerHTML;
+                anchor.id = `${heading.id}-link`;
+                anchor.href = `#${heading.id}`;
+                anchor.onclick = (e) => {
+                    setTimeout(() => {
+                    setLinkActive(anchor);
+                    });
+                };
+                listItem.appendChild(anchor);
+                currentSectionList.appendChild(listItem);
+                }
+
+                function buildTableOfContentsFromHeadings() {
+                const tocElement = document.querySelector(`#${tocId}`);
+                const main = document.querySelector("main");
+                if (!main) {
+                    throw Error("A `main` tag section is required to query headings from.");
+                }
+                headings = main.querySelectorAll("h2, h3");
+                let previousHeading;
+                let currentSectionList = document.createElement("ul");
+                tocElement.appendChild(currentSectionList);
+
+                headings.forEach((heading, index) => {
+                    currentSectionList = getProperListSection(
+                    heading,
+                    previousHeading,
+                    currentSectionList
+                    );
+                    setIdFromContent(heading, index);
+                    addNavigationLinkForHeading(heading, currentSectionList);
+
+                    headingIds.push(heading.id);
+                    headingIntersectionData[heading.id] = {
+                    y: 0
+                    };
+                    previousHeading = heading;
+                });
+                }
+
+                function updateActiveHeadingOnIntersection(entry) {
+                const previousY = headingIntersectionData[entry.target.id].y;
+                const currentY = entry.boundingClientRect.y;
+                const id = `#${entry.target.id}`;
+                const link = document.querySelector(id + "-link");
+                const index = headingIds.indexOf(entry.target.id);
+
+                if (entry.isIntersecting) {
+                    if (currentY > previousY && index !== 0) {
+                    console.log(id + ":1 enter top");
+                    } else {
+                    console.log(id + ":2 enter bottom");
+                    setLinkActive(link);
+                    }
+                } else {
+                    if (currentY > previousY) {
+                    console.log(id + ":3 leave bottom");
+                    const lastLink = document.querySelector(`#${headingIds[index - 1]}-link`);
+                    setLinkActive(lastLink);
+                    } else {
+                    console.log(id + ":4 leave top");
+                    }
+                }
+
+                headingIntersectionData[entry.target.id].y = currentY;
+                }
+
+                function observeHeadings() {
+                let options = {
+                    root: document.querySelector("main"),
+                    threshold: 0.1
+                };
+                headerObserver = new IntersectionObserver(
+                    (entries) => entries.forEach(updateActiveHeadingOnIntersection),
+                    options
+                );
+                Array.from(headings)
+                    .reverse()
+                    .forEach((heading) => headerObserver.observe(heading));
+                }
+
+                window.addEventListener("load", (event) => {
+                buildTableOfContentsFromHeadings();
+                if ("IntersectionObserver" in window) {
+                    observeHeadings();
+                }
+                });
+
+                window.addEventListener("unload", (event) => {
+                headerObserver.disconnect();
+                });
+                
+                
+                
+</script>
+
+<script type="8580465767e0f380642c0dee-text/javascript">
+
+                
+ $("#tocBlogs").delegate("a","click", function(e) {
+    e.preventDefault();
+  let getID = $(this).attr('href')
+  
+  $(getID).show();
+  history.pushState(null, null, getID.replace('#', ''))
+
+});
+</script>
+    	       					 <form action="https://www.ismartrecruit.com/blog-recruitment-chatbot-overview" class="form-horizontal defaultForm" id="defaultForm" method="post" accept-charset="utf-8">
+<input type="hidden" name="_auth_token" value="39cce9524343ea5f05bb0a47796df1b8" />                             
+</form>    	                           <input type='hidden' name='hidden' id='hiddenAddDownloadModelBtn'
+    								data-toggle="modal" data-target=".modal">
+    								<div class="myAddDownloadModal"></div>
+                       <!-- /.container-fluid -->
+                   </div>
+                      <style>
+    .Cookies_close_btn {
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    position: absolute!important;
+    top: 0px;
+    right: 4px;
+    background: #fff;
+    border: none;
+    border-radius: 50%;
+}
+.Cookies-popup {
+    margin-left: 10%;
+    width: 80%;
+    z-index: 99999999999999;
+    position: fixed;
+    bottom: 20px;
+    left: 0;
+     box-shadow: none!important;
+}
+#Demo_Req_popup .overlay_bgNone {
+    position: unset!important;
+}
+.Cookies-button-items{
+    display:flex;
+    justify-content: end;
+}
+@media (max-width: 1130px) {
+    .Cookies-popup {
+        margin-left: 4%;
+        width: 92%;
+    }
+}
+@media (max-width: 991px) {
+    .Cookies-popup {
+        margin-left: 10%;
+        width: 80%;
+    }
+    .Cookies-button-items{
+        display:flex;
+        justify-content: center;
+    }
+    .Cookies-popup-Content .para{
+        text-align: center;
+    }
+}
+@media (max-width: 768px) {
+.Cookies-popup {
+    margin-left: 10%;
+    width: 80%;
+}
+   .Cookies-popup-Content .para {
+    font-size: 14px!important;
+    color: #000;
+    font-weight: 400;
+    margin-bottom: 0px;
+    padding-left:0px;
+}
+   </style>
+<section>
+<div id='Cookies-popup' style='display: none;' style="z-index:99999;">
+        <div id="Demo_Req_popup">
+            <div id="bkgOverlayNew" class="backgroundOverlay overlay_bgNone"></div>
+            <div id="delayedPopupNew" class="delayedPopupWindow ">
+            
+                 <div>
+                    <div class="Cookies-popup">
+                        <div class="Cookies-popup__inner" style="background: #cff0ff;border-radius: 15px;">
+                        
+                            <div class="Cookies-popup-items" >
+                                <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8580465767e0f380642c0dee-|49"></script><div class="Cookie_POP-UP Cookie_popup_width" onload="write();">  
+                                    <div id="here_ebook"></div>
+                                    <div class="container">
+                                        <div class="row d-flex justify-content-beetwin align-items-center">                                  
+                                            <div class="col-lg-9 col-12 Cookies-popup-Content">
+                                                 <h2 id='CookiesSection'><span></h2>
+                                                  <p style="color:#000!important;font-weight: 500;" class="para">iSmartRecruit uses cookies to improve your experience on our site. Before you continue, let us know you're okay with our use of cookies, in accordance with our <a style="color:#000;font-weight: 600;" href="https://www.ismartrecruit.com/privacy ">Privacy Policy</a>.</p>
+                                                    
+                                             </div>
+                                             <div class="col-lg-3 col-12 mt-4 Cookies-button-items" style="margin-bottom:25px;">
+                                               	<a id="CookiesPopUpBtn" success-page='download-success'  btn-name='Home Download' class="cookieSet button-items" >Accept Cookies</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                   	<div>
+                                   	 	<button style="background: transparent;color:#000;" type="button" id='closeDivBTN' class="Cookies_close_btn"><i class="uil uil-times-circle"></i></button>
+                                   	</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+    
+
+    
+    
+
+                  <!-- End of Main Content -->
+              <!-- Footer -->
+             <!-- Footer Start -->
+<style>
+.footer .footer-list li {
+    line-height: 28px!important;
+}
+
+.footer .text-foot {
+	color: #c9c9c9 !important;
+	font-size: 13px;
+	font-weight: 400!important;
+	transition: all 0.1s;
+}
+
+.footer .text-foot:hover {
+	color: #fff !important;
+}
+
+.footer_link_tag i {
+	display: none;
+}
+
+.footer-items .foot_address p {
+	font-size: 16px;
+	color: #132e39 !important;
+}
+
+.footer .footer-items .footer-contect_no_id {
+	line-height: 1.6;
+	color:#c9c9c9 !important;
+	font-size: 16px;
+}
+
+.footer .foot-subscribe .form-control {
+	padding: 12px 0px;
+	background-color: #fff;
+	border: 1px solid #132e39;
+	color: #000;
+	font-weight: 600;
+	border-radius: 30px !important;
+}
+
+.footer input::placeholder {
+	color: red;
+	opacity: 1;
+}
+
+.social-icon.foot-social-icon li a span img{
+    width:20px!important;
+}
+.social-icon.foot-social-icon li a {
+	color: #000;
+	font-weight: 700;
+	border-color: #f9a84c;
+	background: #f9a84c;
+}
+
+
+.social-icon li a:hover{
+    color: #000 !important;
+}
+.social-icon.foot-social-icon li a:hover svg {
+	color: #000;
+    fill: none;
+}
+
+.footer_Subscribe_btn {
+	padding: 10px 30px;
+	background-color: #f9a84c !important;
+	color: #000 !important;
+	font-weight: 600;
+	border-radius: 30px !important;
+	border: 1px solid transparent;
+	transition: all 0.5s ease;
+}
+
+.footer_Subscribe_btn:hover {
+	background-color: #f9a84c !important;
+	color: #000 !important;
+	border: 1px solid transparent;
+}
+
+.footer_hr {
+	color: #fff;
+	margin: 40px 0px !important;
+}
+
+.footer-list .text-foot .highlight_tag {
+	width: 8px;
+	height: 8px;
+	background: #f9a84c;
+	transform: rotate(45deg);
+	position: relative;
+	top: -10px;
+	left: 107%;
+}
+
+.footer .BarndCol_in {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    margin-right: 72px;
+}
+
+.BarndCol_logo .logo img {
+	max-width: 105px;
+}
+
+.BarndCol_loginbtn {
+	margin-top: 20px;
+}
+
+.BarndCol_loginbtn .login {
+	padding: 10px 50px;
+	border-radius: 30px;
+	background: #f9a84c;
+	color: #000;
+	font-weight: 600;
+}
+
+.BarndCol_loginbtn .login:hover {
+	background: #f9a84c;
+	color: #000;
+}
+
+.footer_mobile_hide_col {
+	display: none;
+}
+.footer .Newfooter_inner{
+    padding:0px 50px;
+}
+.career_tag {
+    text-wrap: nowrap;
+}
+.footer-items .foot-adrs li a{
+    color: #f9a84c;
+}
+@media only screen and (max-width: 1110px) {
+	.highlight-box {
+		font-size: 10px;
+	}
+}
+
+@media only screen and (max-width: 1030px) {
+	.highlight-box {
+		font-size: 9px;
+	}
+}
+
+@media only screen and (max-width: 991px) {
+	.highlight-box {
+		font-size: 12px;
+	}
+	.BarndCol_logo .logo img {
+		max-width: 160px;
+	}
+	.footer .BarndCol_in {
+		display: none !important;
+	}
+	.refer_fd{
+		display: none !important;
+	}
+	.BarndCol_loginbtn {
+		margin-top: 0px;
+	}
+	.BarndCol_loginbtn .login {
+		margin-right: 20px;
+	}
+}
+@media only screen and (max-width: 768px) {
+.footer .Newfooter_inner{
+    padding:0px 20px!important;
+}
+}
+@media only screen and (max-width: 460px) {
+	.highlight-box {
+		font-size: 9px;
+	}
+	.footer .BarndCol_in {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+		margin-bottom: 20px;
+	}
+	.BarndCol_logo .logo img {
+		margin-bottom: 20px;
+	}
+	.BarndCol_loginbtn .login {
+		margin-right: 0px;
+	}
+}
+
+.gotoDemo{
+    position: fixed;
+    left: 44.5%;
+    bottom: 2px;
+    width: 300px;
+}
+
+.domoBTN{
+  text-wrap: nowrap;
+  border: none;
+  border-radius: 1000px;
+  box-shadow: none;
+  transition: all 0.3s ease-in-out 0s;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+  background: #00aafb;
+  color: #fff;
+  cursor: pointer;
+  padding: 8px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px 8px 0px 0px;
+}
+.domoBTN:hover{
+    color:#fff;
+}
+.domoBTN::before {
+content: '';
+  border-radius: 1000px;
+  background: #00aafb8f;
+  box-shadow: 0 0 60px rgba(0,255,203,.64);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: all .4s ease-in-out 0s;
+}
+.domoBTN::after {
+    content: '';
+  width: 30px; height: 30px;
+  border-radius: 1000px;
+background: #00aafb8f;
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: ring .4s normal forwards ease-in-out;
+}
+.gotoTopBTN a:hover{
+   background: #132e39!important;
+    color: #fff!important;
+}
+
+ @keyframes ring {
+    0% {
+        
+      width: 2000px;
+      height: 2000px;
+      opacity: 0;
+    }
+  
+     100%{
+        width: 100px;
+        height: 0px;
+        opacity: 1;
+    }
+ }
+
+   @media (max-width:992px) {
+               .gotoDemo {
+                    left: 40%;
+                }
+            }
+    @media (max-width:768px) {
+        .gotoDemo{
+            left: 33%;
+         }
+         .domoBTN{
+            font-size: 16px;
+         }
+        }
+    @media (max-width:560px) {
+        .gotoDemo {
+            left: 32%;
+        }
+    }
+     @media (max-width:460px) {
+        .gotoDemo {
+            left: 30%;
+        }
+    }
+    @media (max-width:360px) {
+        .gotoDemo {
+            left: 10%;
+        }
+    }
+</style>
+
+         <footer class="footer">
+            <div class="container-fluid Newfooter_inner">
+                <div class="row">
+                	<div class="col-lg-3 col-12">
+                        <div class="BarndCol_in mt-3">
+                        	<div class="BarndCol_logo">
+                        		<div class="logo">
+                        			 <img alt="iSmartRecruit" src="https://www.ismartrecruit.com/assets/frontend/images/LOGO/iSmart-logo-white-icon.webp" atl="iSmartRecruit" > 
+                        		</div>
+                        	</div>
+                        	<div class="BarndCol_loginbtn">
+                        		<a class="login" title="login - iSmartRecruit" href="https://app.ismartrecruit.com" class="login-link">Login</a>
+                        	</div>
+                        	<div class="refer_fd mt-5 pt-3">
+                        	<a href="https://www.ismartrecruit.com/refer-friend">
+                        		<img style="width: 100%;border-radius: 10px;" src="https://www.ismartrecruit.com/assets/frontend/images/refer_a_friend_img.jpg" alt="refer a friend">
+                        	</a>
+                        </div>
+                        </div>
+                    </div><!--end col-->
+                	<div class="col-lg-3 col-md-6 col-12 mt-4 mt-sm-2 mb-sm-2 pt-2 p-0">
+                        <h5 class="text-light footer-head">PRODUCTS</h5>
+                        <ul class="footer_br_none list-unstyled footer-list mt-2">
+                        	<li><a href="https://www.ismartrecruit.com/talent-acquistion-software" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Talent Acquisition Software</a></li>
+                            <li><a href="https://www.ismartrecruit.com/recruiting-crm-software" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Recruiting CRM Software</a></li>
+                            <li><a href="https://www.ismartrecruit.com/applicant-tracking-system" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Applicant Tracking System</a></li>
+                          	<li><a href="https://www.ismartrecruit.com/recruitment-software" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Recruitment Software</a></li>
+                           	<li><a href="https://www.ismartrecruit.com/executive-search-software" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Executive Search Software</a></li>
+                          	<li><a href="https://www.ismartrecruit.com/hiring-platform" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Hiring Platform</a></li>
+                           	<li><a href="https://www.ismartrecruit.com/staffing-agency-software" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Staffing Agency Software</a></li>
+                            <li><a href="https://www.ismartrecruit.com/resume-management-software" class="footer_link_tag MD_space_br text-foot"><i class="uil uil-angle-right-b me-1"></i>Resume Management <br><span class="MD_space">Software</span></a></li>
+						    <li><a href="https://www.ismartrecruit.com/candidate-management-system" class="footer_link_tag MD_space_br text-foot"><i class="uil uil-angle-right-b me-1"></i>Candidate Management <br><span class="MD_space">System</span></a></li>                                                   		
+                        	<li><a href="https://www.ismartrecruit.com/features-interview" class="footer_link_tag PRODUCTS_LI text-foot"><i class="uil uil-angle-right-b me-1"></i>Interview Management System</a></li>  
+                        	<li><a href="https://www.ismartrecruit.com/high-volume-recruiting-software" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>High Volume Recruiting</a></li>   
+                         	<li><a href="https://www.ismartrecruit.com/rpo-software" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>RPO Software</a></li>                       		
+                        </ul>
+                    </div><!--end col-->
+                    <div class="footer_padding_top_sm footer_padding_left col-lg-3 col-md-6 col-12 mt-4 mt-sm-2 mb-sm-2 mt-2 p-0">
+                        <h5 class="text-light footer-head">RESOURCES</h5>
+                        <ul class="list-unstyled footer-list mt-2">
+                        <li><a href="https://www.ismartrecruit.com/integration" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Integrations</a></li>
+                            <li><a href="https://www.ismartrecruit.com/data-migration" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Data Migration</a></li>
+                        <li><a href="https://www.ismartrecruit.com/alternatives" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Alternatives</a></li>
+                            <li><a href="https://www.ismartrecruit.com/refer-friend" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Refer Friend</a></li>
+                            <li><a href="https://www.ismartrecruit.com/top-value-added-resellers" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Reseller (VAR)</a></li>
+                            <li><a href="https://www.ismartrecruit.com/best-applicant-tracking-software-readiness" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Readiness Screening</a></li>
+<!--                             <li><a href="https://www.ismartrecruit.com/blog-gdpr-compliance-ats-recruiting-software" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>GDPR</a></li> -->
+                           <!-- <li><a href="" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Videos</a></li> -->
+                            <li><a href="https://www.ismartrecruit.com/blogs" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Blogs</a></li>
+                            <li><a href="https://www.ismartrecruit.com/resource-ebook" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>E-Books</a></li>
+                            <li><a href="https://www.ismartrecruit.com/case-studies" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Case Studies</a></li> 
+                            <li><a href="https://www.ismartrecruit.com/webinars" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Webinars</a></li> 
+                             <li><a href="https://www.ismartrecruit.com/recruitment-glossary" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Glossary</a></li> 
+                            <li><a href="https://www.ismartrecruit.com/frequently-asked-questions" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>FAQs</a></li>
+                            <li><a href="https://www.ismartrecruit.com/write-for-us" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Write for Us</a></li>
+                        </ul>
+                    </div><!--end col-->
+                    
+                    <div class="footer_padding_top col-lg-3 col-md-6 col-12 mt-4 mt-sm-2 mb-sm-2 mt-2 p-0">
+                        <h5 class="text-light footer-head">COMPANY</h5>
+                        <ul class="list-unstyled footer-list mt-2">
+                            <li><a href="https://www.ismartrecruit.com/about-us" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>About Us</a></li>
+                            <li><a href="https://www.ismartrecruit.com/best-talent-acquisition-software-pricing" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Pricing</a></li>
+                            <li><a href="https://www.ismartrecruit.com/best-on-premise-ats-crm-software" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>On Premise</a></li>
+                            <li><a style="line-height: 15px;padding-bottom: 10px;" href="https://www.ismartrecruit.com/careers" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Careers  <span class="career_tag highlight-box">We're hiring!</span><span><div class="highlight_tag"></div></span></a></li>
+                            <li style="margin-top:-10px;"><a href="https://www.ismartrecruit.com/resource-presskit"class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Press Kit</a></li>
+                            <li><a href="https://www.ismartrecruit.com/gdpr-assessment" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>GDPR Assessment</a></li>
+                            <li><a href="https://stats.uptimerobot.com/y7Kn1HN11w" target="_blank" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i><span><img style="width:20px;margin-bottom:3px;margin-left:-20px;display: inline;" src="https://www.ismartrecruit.com/assets/frontend/images/LOGO/green2.gif" alt="status"></span>iSmartRecruit Status</a></li>
+                            <li><a style="line-height: 15px;padding-bottom: 10px;" href="https://featurerequest.ismartrecruit.com/" target="_blank" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Vote for Feature <span class="highlight-box">Suggest</span><span><div style="left: 104%;" class="highlight_tag"></div></span></a></li>  
+                            <li style="margin-top:-10px;"><a href="https://www.ismartrecruit.com/terms" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Terms & Conditions</a></li>
+                            <li><a href="https://www.ismartrecruit.com/risk-management-policy" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Risk Management Policy</a></li>
+                        	<li><a href="https://www.ismartrecruit.com/incident-response-policy" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Incident Response Policy</a></li>
+                        	<li><a href="https://www.ismartrecruit.com/vulnerability-disclosure-program" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Vulnerability Disclosure Program</a></li>
+                        	
+                            <li><a href="https://www.ismartrecruit.com/privacy" class="footer_link_tag text-foot"><i class="uil uil-angle-right-b me-1"></i>Privacy Policy</a></li>
+                        </ul>                        
+                    </div><!--end col-->                   
+                </div><!--end row-->
+               
+                <hr class="footer_hr">
+                <div class="row footer-items">
+                    <div class="col-lg-4 col-12 mt-sm-2 mb-sm-2 foot_address">
+                        <h5 class="text-light footer-head">REACH US</h5>
+                       <!--  <p class="mt-4">318, Vanderveer Road, <br>
+                            Bridgewater, New Jersey 08807</p> -->
+                        	<a class="footer-contect_no_id" href="tel:+1 (908)-428-4486">+1 (908)-428-4486</a><br>
+                            <a class="footer-contect_no_id" href="/cdn-cgi/l/email-protection#ccbfada0a9bf8ca5bfa1adbeb8bea9afbeb9a5b8e2afa3a1"><span class="__cf_email__" data-cfemail="4e3d2f222b3d0e273d232f3c3a3c2b2d3c3b273a602d2123">[email&#160;protected]</span></a><br>
+                            <a class="footer-contect_no_id" href="/cdn-cgi/l/email-protection#dab7bba8b1bfaeb3b4bd9ab3a9b7bba8aea8bfb9a8afb3aef4b9b5b7"><span class="__cf_email__" data-cfemail="167b77647d73627f7871567f657b77646264737564637f623875797b">[email&#160;protected]</span></a><br>
+                            <a class="footer-contect_no_id" href="/cdn-cgi/l/email-protection#c4b7b1b4b4abb6b084adb7a9a5b6b0b6a1a7b6b1adb0eaa7aba9"><span class="__cf_email__" data-cfemail="a0d3d5d0d0cfd2d4e0c9d3cdc1d2d4d2c5c3d2d5c9d48ec3cfcd">[email&#160;protected]</span></a>
+                            
+                            <ul class="foot-adrs mt-2">
+                         		<li>
+                             		<a href="https://www.ismartrecruit.com/careers#address">US </a><span class="adr_line">|</span>
+                         		</li>
+                         		<li>
+                             		<a href="https://www.ismartrecruit.com/careers#address">UK </a><span class="adr_line">|</span>
+                         		</li>
+                         		<li>
+                             		<a href="https://www.ismartrecruit.com/careers#address">Mexico </a><span class="adr_line">|</span>
+                         		</li>
+                         		<li>
+                             		<a href="https://www.ismartrecruit.com/careers#address">India </a>
+                         		</li>
+                         	</ul>	
+                    </div>
+                    <div class="footer-social-icon col-lg-4 col-12 mt-sm-2 mb-sm-2">
+                        <div>
+                            <ul class="list-unstyled social-icon foot-social-icon mb-0 mt-4">
+                           		<li class="list-inline-item"><a target="_blank" href="https://www.linkedin.com/company/ismartrecruit" class="rounded"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
+                               	<li class="list-inline-item"><a target="_blank" href="https://twitter.com/iSmartRecruit" class="rounded"><span><img style="width:20px!important;" src="https://www.ismartrecruit.com/assets/frontend/images/home/twitter_logo.webp" alt="twitter"></span></a></li>
+                                <li class="list-inline-item"><a target="_blank" href="https://www.youtube.com/channel/UCxLw1SwdF43aD_YD9-prDpA/videos" class="rounded"><i data-feather="youtube" class="fea icon-sm fea-socia"></i></a></li>
+                                <li class="list-inline-item"><a target="_blank" href="https://www.facebook.com/iSmartRecruitATS/" class="rounded"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
+                            </ul>
+                        </div>   
+                        <div>
+                            <ul class="foot-image">
+                                <li><a target="_blank" href="https://play.google.com/store/apps/details?id=com.ismartrecruit"><img src="https://www.ismartrecruit.com/assets/frontend/images/home/Download_app.png" alt="play store"></a></li>
+                                <li><a target="_blank" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1487049199"><img src="https://www.ismartrecruit.com/assets/frontend/images/home/appstore.png" alt="app store"></a></li>
+                            </ul>
+                        </div>
+                    </div>      
+                    <div class="col-lg-4 col-12 mt-sm-2 mb-sm-2" id='footerEmailSubscribe'>
+                    <div class='dzSubscribeFormMsgEmail'></div>
+                        <form action='Home/email_subscribe_mail' id='frmsubscribeEmail' method='post' accept-charset="utf-8" >
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="foot-subscribe mb-3">
+                                        <label class="form-label" style="color:#fff;font-weight:600;">Write your email <span class="text-danger">*</span></label>
+                                        <div class="form-icon position-relative">
+                                            <i data-feather="mail" class="fea icon-sm icons" style="height: 24px;width: 24px;top:15;"></i>
+                                            <input style="width: 98%;" type="email" name="email" id="emailsubscribe" class="form-control ps-5 rounded" placeholder="Your email : " required>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12 mt-sm-2 mb-sm-2">
+                                <div id='loadingIconEmail'></div>
+                                    <div class="d-grid">
+                                        <input class="footer_Subscribe_btn" type="submit" id="submitsubscribe" name="send" class="btn btn-soft-primary" value="Subscribe">
+                                    </div>
+                                </div>
+                            </div>
+                         </form>
+                      </div>
+                </div>   
+            </div><!--end container-->
+        </footer><!--end footer-->
+       <div id="back-to-top" class="back-to-top gotoTopContent">
+            <div class="d-flex">
+                <div  class="gotoDemo">
+                    <a class="domoBTN" href="https://www.ismartrecruit.com/request-demo">
+                    	Get a Free Demo
+                    <!--  <img src="" alt="Get a Demo">-->
+                    </a>
+                </div>
+                <div class="gotoTopBTN">
+                    <a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; topFunction()" class="btn btn-icon" data-cf-modified-8580465767e0f380642c0dee-=""><i data-feather="arrow-up" class="icons"></i></a>
+                </div>
+            </div>
+        </div>
+        
+
+        <!-- <script type="text/javascript">var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/5785f28489d8535142b4cdcd/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})(); </script>-->             <!-- End of Footer -->
+        </div>
+    </div>
+     <!-- End of Content Wrapper -->
+     
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQFBGB8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" defer="defer" async="async"></script>
+<script rel="preload" as="script" src="https://code.jquery.com/ui/1.10.2/jquery-ui.min.js" integrity="sha256-FgiaQnQazF/QCrF9qSvpRY6PACn9ZF8VnlgqfqD1LsE=" crossorigin="anonymous" defer="defer" async="async" type="8580465767e0f380642c0dee-text/javascript"></script>
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://www.ismartrecruit.com/assets/frontend/js/jquery.min.js"></script>
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://www.ismartrecruit.com/assets/frontend/js/mainJS.js?v=1.14"></script>
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://www.ismartrecruit.com/assets/frontend/js/bootstrap.bundle.min.js"></script>
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://www.ismartrecruit.com/assets/frontend/js/tiny-slider.js"></script>
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://www.ismartrecruit.com/assets/frontend/js/tobii.min.js"></script>
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://www.ismartrecruit.com/assets/frontend/js/datepicker.min.js"></script>
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://www.ismartrecruit.com/assets/frontend/js/contact.js"></script>
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://www.ismartrecruit.com/assets/frontend/js/feather.min.js"></script>
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://www.ismartrecruit.com/assets/frontend/js/aos.js"></script>
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://www.ismartrecruit.com/assets/frontend/js/plugins.init.js"></script>
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://www.ismartrecruit.com/assets/frontend/js/app.js"></script>
+<script type="8580465767e0f380642c0dee-text/javascript" rel="preload" as="script" src="https://www.ismartrecruit.com/assets/frontend/js/custom-js.js?v=1.20"></script>
+
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8580465767e0f380642c0dee-|49" defer></script></body>
+</html>
